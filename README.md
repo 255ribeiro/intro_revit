@@ -104,10 +104,12 @@ Plano de Aulas
 1. Modelagem de Rampas
     * Laje inclinada
     * Rampa
-        * Inclinação e descanços
+        * Inclinação e descansos
         
 1. Modelagem de escadas
     * Formula de blondel
+    
+1. Modelagem de Terrenos
     * Modelagem a partir de base vetorial
     * Modelagem a partir de base raster
     * Corte e aterro

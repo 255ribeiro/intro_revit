@@ -11,17 +11,23 @@ Plano de Aulas
 
 1. Introdução ao BIM
 
-    1. Conceito
-    1. Bim x CAD
-    1. Modelagem paramétrica
- 
-
-#### Alua 02 - (13/10)*
+    - Conceito
+    - Bim x CAD
+    - Modelagem paramétrica
+    
 1. interface do programa
     * Tela inicial
     * Ribbon (faixa)
     * Oprions Bar
-    * 
+    * Project Brownser
+    * Properties Pallets
+ 
+
+#### Alua 02 - (13/10)*
+1. Ajustes iniciais
+    * Unidades de desenho
+    * Níveis
+        * relação entre níveis e vistas
  
 
 

@@ -6,19 +6,17 @@ Plano de Aulas
 #### Alua 01 - (02/10)
 
 1. Apresentação do curso
-    1. Metodoloagia
-    1. Avaliações
+    * Metodoloagia
+    * Avaliações
 
 1. Funcionamento do Laboratório
 
 1. Introdução ao BIM
-
     - Conceito
     - Bim x CAD
     - Modelagem paramétrica
     
 1. interface do programa
-
     * Tela inicial
     * Ribbon (faixa)
     * Oprions Bar

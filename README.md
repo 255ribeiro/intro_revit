@@ -67,7 +67,8 @@ Plano de Aulas
     * Editor de famílias
     * Sistemas de vigas
 1. Base vetorial
-    * Inserção de Fundações
+    * Lajes
+    * Paredes
 
 #### Alua 04 - (27/10)
 

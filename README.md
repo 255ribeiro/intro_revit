@@ -109,16 +109,17 @@ Plano de Aulas
 1. Modelagem de escadas
     * Formula de blondel
     
+1. Corrimão e guarda-corpo
+
+#### Aula 07 - (17/11)
+
 1. Modelagem de Terrenos
     * Modelagem a partir de base vetorial
     * Modelagem a partir de base raster
     * Corte e aterro
         * Plataformas
         * Talude
-
-#### Aula 07 - (17/11)
-
-1. Orientação do trabalho de modelagem
+        
 
 #### Aula 08 - (24/11)
 
@@ -129,9 +130,19 @@ Plano de Aulas
 
 1. Orientação do trabalho de modelagem
 
-1. Entrega do trabalho de modelagem
+
 
 #### Aula 10 - (15/12)
+
+
+1. Orientação do trabalho de modelagem
+
+1. Entrega do trabalho de modelagem
+
+
+
+
+#### Aula 11 - (22/12)
 
 1. Vistas e folhas
     * definindo escala
@@ -148,7 +159,10 @@ Plano de Aulas
     * Rotulos
     * Carimbos
 
-#### Aula 11 - (22/12)
+
+
+#### Aula 12 - (12/01)
+
 
 1. Hierarquia de penas
     * *Object Styles*
@@ -160,8 +174,7 @@ Plano de Aulas
     * Hachuras de desenho
     
 
-
-#### Aula 12 - (12/01)
+#### Aula 13 - (19/01)
 
 1. Quadro de áreas
     * áreas de comodos
@@ -171,7 +184,8 @@ Plano de Aulas
 1. Tabelas de Quantitativos
 
 
-#### Aula 13 - (19/01)
+
+#### Aula 14 - (26/01)
 
 1. Estudo de Sombras
     * Coordenadas Geobráficas
@@ -185,9 +199,6 @@ Plano de Aulas
     * Pós-produção
     * Percurso em vídeo
 
-
-#### Aula 14 - (26/01)
-1. Orientação do segundo trabalho
 
 #### Aula 15 - (02/02)
 

@@ -161,7 +161,13 @@ Plano de Aulas
 
 #### Aula 12 - (12/01)
 
+1. Quadro de áreas
+    * áreas de comodos
+    * áreas totais
+    
+
 1. Tabelas de Quantitativos
+
 
 #### Aula 13 - (19/01)
 
@@ -175,6 +181,7 @@ Plano de Aulas
     * Materiais
     * Luzes
     * Pós-produção
+    * Percurso em vídeo
 
 
 #### Aula 14 - (26/01)

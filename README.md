@@ -6,6 +6,8 @@ Plano de Aulas
 #### Alua 01 - (02/10)
 
 1. Apresentação do curso
+    1. Metodoloagia
+    1. Avaliações
 
 1. Funcionamento do Laboratório
 
@@ -16,39 +18,127 @@ Plano de Aulas
     - Modelagem paramétrica
     
 1. interface do programa
+
     * Tela inicial
     * Ribbon (faixa)
     * Oprions Bar
     * Project Brownser
     * Properties Pallets
+    * Seletor de Tipos (Type Selector)
+    
+1. Instalação do Programa
  
 
 #### Alua 02 - (13/10)*
 1. Ajustes iniciais
     * Unidades de desenho
-    * Níveis
+    * Cópias de segurança
+    * Planos de referência (RP)
+    * Níveis (LL)
         * relação entre níveis e vistas
+    * Trabalhando com os níveis
+        * Lajes conectatas aos níveis
+        * Paredes entre dois níveis
+1. Exercício 01
+    * Definindo os níveis
+    * Subjacência
+    * Desenhando lajes
+    * Desenhando paredes
+    * Portas e janelas
+        * Hierarquia dos elementos no Revit
+            * Categoria
+            * família 
+            * Tipo
+            * instância
+1. Paredes de cortina
+    * Montante
+    * Painéis
  
 
-
 #### Alua 03 - (20/10)*
+1. Malha de Pilares
+    * Comando Grid (GR)
+    * criação de pilares
+        * Pilares estruturais
+        * Colunas arquitetônicas
+        * Editor de famílias
+1. Vigas
+    * Carregando famílias
+    * Editor de famílias
+    * Sistemas de vigas
+1. Base vetorial
+    * Inserção de Fundações
 
 #### Alua 04 - (27/10)
+
+1. Fundações
+    * Inserção de Fundações
+
+1. Treliças
+    * Editor de famílias
+    * Inserção de treliça
+1. Coberturas
+    * Cobertura por extrusão
+    * Telhados de multiplas águas
+    
+1. Vidraça Inclinada
 
 
 #### Alua 05 - (03/11)*
 
+1. Paredes
+    * Materiais
+    * Camadas
+    * Paredes empilahdas
+    * Cortinas de vidro
+        * Montantes
+        * Paineis
+1. Modelagem a partir de bases raster
+    * Inserção das imagens
+    * Escala da imagem
+    * Modelagem de paredes
+    * Inserção de esquadrias
+
 #### Aula 06 - (10/11)
+
+1. Modelagem de Rampas
+    * Laje inclinada
+    * Rampa
+        * Inclinação e descanços
+        
+1. Modelagem de escadas
+    * Formula de blondel
+    * Modelagem a partir de base vetorial
+    * Modelagem a partir de base raster
+    * Corte e aterro
+        * Plataformas
+        * Talude
 
 #### Aula 07 - (17/11)
 
+1. Orientação do trabalho de modelagem
+
 #### Aula 08 - (24/11)
 
+1. Orientação do trabalho de modelagem
 
 
 #### Aula 09 - (01/12)
 
+1. Orientação do trabalho de modelagem
+
+1. Entrega do trabalho de modelagem
+
 #### Aula 10 - (15/12)
+
+1. Vistas e folhas
+    * defininso escala
+
+1. famílias de anotações
+    1.. Cotas
+    1. textos
+    1. Rotulos
+    1. Carimbos
 
 #### Aula 11 - (22/12)
 
@@ -67,6 +157,10 @@ Plano de Aulas
 
 
 #### Aula 17 - (23/02)
+
+1. Avaliação do curso
+
+1. Notas
 
 
 

@@ -132,28 +132,61 @@ Plano de Aulas
 #### Aula 10 - (15/12)
 
 1. Vistas e folhas
-    * defininso escala
-
+    * definindo escala
+    * Definindo Nível de detalhe
+    * *Object Styles
+    * *Visibility Graphics
+    * Margens
+    
 1. famílias de anotações
-    1.. Cotas
-    1. textos
-    1. Rotulos
-    1. Carimbos
+    * Norte
+    * Cotas
+    * Níveis
+    * Textos
+    * Rotulos
+    * Carimbos
 
 #### Aula 11 - (22/12)
 
+1. Hierarquia de penas
+    * *Object Styles*
+    * *Visibility Graphics*
+    * *lineWork Tool*
+    
+1. Hachuras de Piso e paredes
+    * Hachuras de modelo
+    * Hachuras de desenho
+    
 
 
 #### Aula 12 - (12/01)
 
+1. Tabelas de Quantitativos
+
 #### Aula 13 - (19/01)
 
-#### Aula 14 - (26/01)
+1. Estudo de Sombras
+    * Coordenadas Geobráficas
+    * Norte veradeiro
+    * Configurando Sombras
+    * Data e hora
+    
+2. Render
+    * Materiais
+    * Luzes
+    * Pós-produção
 
+
+#### Aula 14 - (26/01)
+1. Orientação do segundo trabalho
 
 #### Aula 15 - (02/02)
 
+1. Orientação do segundo trabalho
+
 #### Aula 16 - (09/02)
+
+1. Entrega do segundo trabalho
 
 
 #### Aula 17 - (23/02)

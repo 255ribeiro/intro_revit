@@ -18,10 +18,12 @@ Plano de Aulas
     
 1. interface do programa
     * Tela inicial
+    * Menu do aplicativo
+    * Barra de acesso rápido
     * Ribbon (faixa)
-    * Oprions Bar
-    * Project Brownser
-    * Properties Pallets
+    * Options Bar
+    * Project Browser (navegador de projeto)
+    * Properties Pallets (PP) (propriedades)
     * Seletor de Tipos (Type Selector)
     
 1. Instalação do Programa

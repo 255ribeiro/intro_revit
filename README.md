@@ -3,7 +3,7 @@ Informática e Desenho II
 Plano de Aulas
 --------------
 
-#### Alua 01 - (02/10)
+#### Alua 01 - (06/10)
 
 1. Apresentação do curso
     * Metodoloagia

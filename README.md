@@ -1,6 +1,7 @@
 # Informática e Desenho II
 
 # Plano de Aulas
+
 ****
 ****
 
@@ -216,6 +217,7 @@
 1. Tabelas de Quantitativos
 
 
+***
 
 #### Aula 14 - (26/01)
 

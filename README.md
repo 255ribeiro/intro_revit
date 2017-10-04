@@ -2,6 +2,8 @@ Informática e Desenho II
 =========================
 Plano de Aulas
 --------------
+****
+****
 
 #### Alua 01 - (06/10)
 
@@ -55,6 +57,8 @@ Plano de Aulas
     * Montante
     * Painéis
  
+ 
+***
 
 #### Alua 03 - (20/10)*
 1. Malha de Pilares
@@ -71,6 +75,10 @@ Plano de Aulas
     * Lajes
     * Paredes
 
+ 
+***
+
+
 #### Alua 04 - (27/10)
 
 1. Fundações
@@ -85,6 +93,8 @@ Plano de Aulas
     
 1. Vidraça Inclinada
 
+ 
+***
 
 #### Alua 05 - (03/11)*
 
@@ -113,6 +123,10 @@ Plano de Aulas
     
 1. Corrimão e guarda-corpo
 
+ 
+***
+
+
 #### Aula 07 - (17/11)
 
 1. Modelagem de Terrenos
@@ -122,16 +136,23 @@ Plano de Aulas
         * Plataformas
         * Talude
         
+ 
+***
 
 #### Aula 08 - (24/11)
 
 1. Orientação do trabalho de modelagem
 
 
+ 
+***
+
 #### Aula 09 - (01/12)
 
 1. Orientação do trabalho de modelagem
 
+ 
+***
 
 
 #### Aula 10 - (15/12)
@@ -142,6 +163,8 @@ Plano de Aulas
 1. Entrega do trabalho de modelagem
 
 
+ 
+***
 
 
 #### Aula 11 - (22/12)
@@ -161,6 +184,8 @@ Plano de Aulas
     * Rotulos
     * Carimbos
 
+ 
+***
 
 
 #### Aula 12 - (12/01)
@@ -175,6 +200,10 @@ Plano de Aulas
     * Hachuras de modelo
     * Hachuras de desenho
     
+
+ 
+***
+
 
 #### Aula 13 - (19/01)
 
@@ -201,6 +230,9 @@ Plano de Aulas
     * Pós-produção
     * Percurso em vídeo
 
+ 
+***
+
 
 #### Aula 15 - (02/02)
 
@@ -209,6 +241,9 @@ Plano de Aulas
 #### Aula 16 - (09/02)
 
 1. Entrega do segundo trabalho
+
+ 
+***
 
 
 #### Aula 17 - (23/02)

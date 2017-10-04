@@ -2,6 +2,14 @@
 
 # Plano de Aulas
 
+Prof. Fernando Ferraz Ribeiro
+
+fernando.ribeiro@ufba.br
+
+Prof. Kyane Santos Bonfim
+
+kyanebomfim@gmail.com
+
 ****
 ****
 
@@ -17,6 +25,7 @@
 1. Introdução ao BIM
     - Conceito
     - Bim x CAD
+    - Ciclo de vida das edificações
     - Modelagem paramétrica
     
 1. interface do programa

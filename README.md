@@ -8,6 +8,7 @@
 #### Alua 01 - (06/10)
 
 1. Apresentação do curso
+
     * Metodoloagia
     * Avaliações
 
@@ -20,13 +21,30 @@
     
 1. interface do programa
     * Tela inicial
+      * Abrindo um projeto / Templates de projeto
+      * Abrindo um arquivo de famílias / Templates de Famílias
     * Menu do aplicativo
+      * Botões simples e botões split
+      * Salvando um arquivo
+      * Configurando número de cópias de segurança
     * Barra de acesso rápido
+      * Uso e configuração
     * Ribbon (faixa)
+      * Abas
+      * Painéis
+      * Botões simples
+      * Botões duplos
+      * Expansão de paineis
+      * Lançadores de diálogo
+      * Menú de contexto
     * Options Bar
     * Project Browser (navegador de projeto)
+      * Abrindo e fechando o navegador de projetos / menu 
+      
+      * vistas
+      
     * Properties Pallets (PP) (propriedades)
-    * Seletor de Tipos (Type Selector)
+    * Type Selector (Seletor de Tipos)
     
 1. Instalação do Programa
  

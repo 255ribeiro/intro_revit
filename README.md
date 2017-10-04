@@ -110,6 +110,8 @@
     * Modelagem de paredes
     * Inserção de esquadrias
 
+****
+
 #### Aula 06 - (10/11)
 
 1. Modelagem de Rampas
@@ -237,12 +239,14 @@
 
 1. Orientação do segundo trabalho
 
+****
+
 #### Aula 16 - (09/02)
 
 1. Entrega do segundo trabalho
 
  
-***
+****
 
 
 #### Aula 17 - (23/02)

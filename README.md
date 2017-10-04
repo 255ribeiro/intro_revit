@@ -1,8 +1,8 @@
 # Informática e Desenho II
 
-Prof. Fernando Ferraz Ribeiro     |  fernando.ribeiro@ufba.br
+Prof. Fernando Ferraz Ribeiro   ---   fernando.ribeiro@ufba.br
 
-Prof. Kyane Santos Bonfim         |  kyanebomfim@gmail.com
+Prof. Kyane Santos Bonfim       ---   kyanebomfim@gmail.com
 
 # Plano de Aulas
 

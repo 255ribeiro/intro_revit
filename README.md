@@ -240,7 +240,7 @@
 #### Aula 14 - (26/01)
 
 1. Estudo de Sombras
-    * Coordenadas Geobráficas
+    * Coordenadas Geográficas
     * Norte veradeiro
     * Configurando Sombras
     * Data e hora

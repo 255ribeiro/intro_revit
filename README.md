@@ -116,7 +116,7 @@ Grupo de informações:
 
 <hr>
 
-#### Aula 03 - (03/11)
+#### Aula 04 - (03/11)
 1. Malha de Pilares
     * Comando Grid (GR)
     * criação de pilares
@@ -135,7 +135,7 @@ Grupo de informações:
 <hr>
 
 
-#### Aula 04 - (10/11)
+#### Aula 05 - (10/11)
 
 1. Fundações
     * Inserção de Fundações

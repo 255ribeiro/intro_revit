@@ -89,9 +89,9 @@ Grupo de informações:
 
 #### Aula 03 - (27/10)
 
-1. Modelagem a partir de massas
+[Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
 
-[instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
+1. Modelagem a partir de massas
 
    * Modelagem no local
    

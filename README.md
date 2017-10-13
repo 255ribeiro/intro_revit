@@ -5,6 +5,7 @@ Prof. Fernando Ferraz Ribeiro   ---   fernando.ribeiro@ufba.br
 Prof. Kyane Santos Bonfim       ---   kyanebomfim@gmail.com
 
 Grupo de informações:
+
 [https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2](https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2)
 
 # Plano de Aulas

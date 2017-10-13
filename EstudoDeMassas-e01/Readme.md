@@ -19,8 +19,8 @@
 1. elementos do entorno são opcionais e devem estar locados em layer próprio;
 
 
-![exemplo](exemploMassas.jpg "figura 01 exemplo de estudo com dois grupos de massas" )
+![exemplo01](exemploMassas.jpg "figura 01 exemplo de estudo com dois grupos de massas" )
 
 
 
-![exemplo](exemploMassas 02.jpg "figura 02 exemplode sólidos fechados" )
+![exemplo01](Intro_Revit/EstudoDeMassas-e01/exemploMassas 02 .jpg "figura 02 exemplode sólidos fechados" )

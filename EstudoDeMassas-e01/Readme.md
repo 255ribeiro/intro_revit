@@ -14,12 +14,12 @@
 
 1. as massas devem ser modeladas como volumes fechados (sólidos);
 
-1. criar superfícies para o terreno em layrer própio;
+1. criar superfícies para o terreno em layrer próprio;
 
 1. elementos do entorno são opcionais e devem estar locados em layer próprio;
 
 
-![exemplo](exemploMassas.jpg)
+![exemplo](exemploMassas.jpg "figura 01 exemplode estudo com dois grupos de massas")
 
 
 

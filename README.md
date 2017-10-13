@@ -28,7 +28,7 @@ Grupo de informações:
     - Ciclo de vida das edificações
     - Modelagem paramétrica
     
-1. interface do programa
+1. Interface do programa
     * Tela inicial
       * Abrindo um projeto / Templates de projeto
       * Abrindo um arquivo de famílias / Templates de Famílias
@@ -59,7 +59,7 @@ Grupo de informações:
  
 ***
 
-#### Alua 02 - (13/10)*
+#### Aula 02 - (13/10)*
 1. Ajustes iniciais
     * Unidades de desenho
     * Cópias de segurança
@@ -87,7 +87,7 @@ Grupo de informações:
  
 ***
 
-#### Alua 03 - (20/10)*
+#### Aula 03 - (20/10)*
 1. Malha de Pilares
     * Comando Grid (GR)
     * criação de pilares
@@ -106,7 +106,7 @@ Grupo de informações:
 ***
 
 
-#### Alua 04 - (27/10)
+#### Aula 04 - (27/10)
 
 1. Fundações
     * Inserção de Fundações
@@ -123,13 +123,13 @@ Grupo de informações:
  
 ***
 
-#### Alua 05 - (03/11)*
+#### Aula 05 - (03/11)*
 
 1. Modelagem a partir de massas
 
 [instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
 
-   * modelagem no local
+   * Modelagem no local
    
 1. Paredes
     * Materiais

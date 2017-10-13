@@ -11,7 +11,7 @@ Grupo de informações:
 ## Plano de Aulas
 
 <hr>
-<hr>
+
 
 #### Aula 01 - (06/10)
 

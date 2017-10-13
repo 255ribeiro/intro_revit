@@ -25,7 +25,7 @@
 
 
 
-![exemplo 02](exemploMassas_02 .jpg "figura 02 - exemplo de sólidos fechados" )
+![exemplo 02](https://github.com/255ribeiro/Intro_Revit/blob/master/EstudoDeMassas-e01/exemploMassas_02%20.jpg "figura 02 - exemplo de sólidos fechados" )
 
 
 *figura 02 sólidos fechados*

@@ -95,6 +95,8 @@ Grupo de informações:
 
    * Modelagem no local
    
+   * Importando sólidos modelados em outros programas
+   
 1. Paredes
     * Materiais
     * Camadas

@@ -114,6 +114,8 @@ Grupo de informações:
 
 [Tutorial de massas no Revit(ENG) M Smith](https://www.youtube.com/watch?v=1hqkX6IW6MQ&list=PL5fgrebBtwJIgZ9gH32qJ0WQYC1-avW2f)
 
+<hr>
+
 #### Aula 03 - (03/11)
 1. Malha de Pilares
     * Comando Grid (GR)
@@ -130,7 +132,7 @@ Grupo de informações:
     * Paredes
 
  
-***
+<hr>
 
 
 #### Aula 04 - (10/11)
@@ -163,7 +165,7 @@ Grupo de informações:
 1. Corrimão e guarda-corpo
 
  
-***
+<hr>
 
 
 #### Aula 07 - (14/11)
@@ -176,7 +178,7 @@ Grupo de informações:
         * Talude
         
  
-***
+<hr>
 
 #### Aula 08 - (01/11)
 
@@ -184,14 +186,13 @@ Grupo de informações:
 
 
  
-***
+<hr>
 
 #### Aula 09 - (15/12)
 
 1. Orientação do trabalho de modelagem
 
- 
-***
+<hr>
 
 
 #### Aula 10 - (22/12)
@@ -202,8 +203,7 @@ Grupo de informações:
 1. Entrega do trabalho de modelagem
 
 
- 
-***
+<hr>
 
 
 #### Aula 11 - (12/01)
@@ -223,8 +223,7 @@ Grupo de informações:
     * Rotulos
     * Carimbos
 
- 
-***
+<hr>
 
 
 #### Aula 12 - (19/01)
@@ -240,8 +239,7 @@ Grupo de informações:
     * Hachuras de desenho
     
 
- 
-***
+<hr>
 
 
 #### Aula 13 - (26/01)
@@ -254,7 +252,7 @@ Grupo de informações:
 1. Tabelas de Quantitativos
 
 
-***
+<hr>
 
 #### Aula 14 - (02/02)
 
@@ -270,8 +268,7 @@ Grupo de informações:
     * Pós-produção
     * Percurso em vídeo
 
- 
-***
+<hr>
 
 
 #### Aula 15 - (16/02)
@@ -285,7 +282,7 @@ Grupo de informações:
 1. Entrega do segundo trabalho
 
  
-****
+<hr>
 
 
 #### Aula 17 - (?/02)
@@ -295,10 +292,8 @@ Grupo de informações:
 1. Notas
 
 
-
-
-****
-****
+<hr>
+<hr>
 
 
 

@@ -1,8 +1,8 @@
 # Informática e Desenho II
 
-Prof. Fernando Ferraz Ribeiro   -   fernando.ribeiro@ufba.br
+Prof. Fernando Ferraz Ribeiro   \|   fernando.ribeiro@ufba.br
 
-Prof. Kyane Santos Bonfim       -   kyanebomfim@gmail.com
+Prof. Kyane Santos Bonfim       \|   kyanebomfim@gmail.com
 
 Grupo de informações:
 
@@ -48,7 +48,7 @@ Grupo de informações:
       * Menu de contexto
     * Options Bar
     * Project Browser (navegador de projeto)
-      * Abrindo e fechando o navegador de projetos \| menu vistas -> interface do usuário -> 
+      * Abrindo e fechando o navegador de projetos \| menu vistas -> interface do usuário -> navegador de projetos
       
     * Properties Pallets (PP) (propriedades)
     * Type Selector (Seletor de Tipos)

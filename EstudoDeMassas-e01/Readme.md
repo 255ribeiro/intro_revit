@@ -19,4 +19,7 @@
 1. elementos do entorno são opcionais e devem estar locados em layer próprio;
 
 
+![exemplo](exemploMassas.jpg)
+
+
 

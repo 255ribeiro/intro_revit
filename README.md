@@ -1,8 +1,8 @@
 # Informática e Desenho II
 
-Prof. Fernando Ferraz Ribeiro   ---   fernando.ribeiro@ufba.br
+Prof. Fernando Ferraz Ribeiro   -   fernando.ribeiro@ufba.br
 
-Prof. Kyane Santos Bonfim       ---   kyanebomfim@gmail.com
+Prof. Kyane Santos Bonfim       -   kyanebomfim@gmail.com
 
 Grupo de informações:
 
@@ -45,17 +45,17 @@ Grupo de informações:
       * Botões duplos
       * Expansão de paineis
       * Lançadores de diálogo
-      * Menú de contexto
+      * Menu de contexto
     * Options Bar
     * Project Browser (navegador de projeto)
-      * Abrindo e fechando o navegador de projetos / menu 
-      
-      * vistas
+      * Abrindo e fechando o navegador de projetos \| menu vistas -> interface do usuário -> 
       
     * Properties Pallets (PP) (propriedades)
     * Type Selector (Seletor de Tipos)
     
 1. Instalação do Programa
+
+1. Refer~encias e Links
  
 ***
 

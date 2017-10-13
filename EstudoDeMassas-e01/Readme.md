@@ -19,10 +19,13 @@
 1. elementos do entorno são opcionais e devem estar locados em layer próprio;
 
 
-![exemplo01](exemploMassas.jpg "figura 01 - exemplo de estudo com dois grupos de massas" )
+![exemplo 01](exemploMassas.jpg "figura 01 - exemplo de estudo com dois grupos de massas" )
 
 *figura 01 exemplo de estudo com dois grupos de massas*
 
 
 
-![exemplo01](exemploMassas_02 .jpg "figura 02 - exemplo de sólidos fechados" )
+![exemplo 02](exemploMassas_02 .jpg "figura 02 - exemplo de sólidos fechados" )
+
+
+*figura 02 sólidos fechados*

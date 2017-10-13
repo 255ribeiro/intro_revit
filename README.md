@@ -55,7 +55,7 @@ Grupo de informações:
     
 1. Instalação do Programa
 
-1. Refer~encias e Links
+1. Referências e Links
  
 ***
 

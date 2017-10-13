@@ -19,7 +19,7 @@
 1. elementos do entorno são opcionais e devem estar locados em layer próprio;
 
 
-![exemplo](exemploMassas.jpg "figura 01 exemplode estudo com dois grupos de massas")
+![exemplo](exemploMassas.jpg "figura 01 exemplode estudo com dois grupos de massas" = 200x)
 
 
 

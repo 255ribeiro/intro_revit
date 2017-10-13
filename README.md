@@ -137,6 +137,10 @@ Grupo de informações:
     * Escala da imagem
     * Modelagem de paredes
     * Inserção de esquadrias
+    
+1. Referências e Links
+
+[Tutorial de massas no Revit(ENG) M Smith](https://www.youtube.com/watch?v=1hqkX6IW6MQ&list=PL5fgrebBtwJIgZ9gH32qJ0WQYC1-avW2f)
 
 ****
 

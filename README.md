@@ -2,7 +2,7 @@
 
 Prof. Fernando Ferraz Ribeiro   |   fernando.ribeiro@ufba.br
 
-Prof. Kyane Santos Bonfim       \|   kyanebomfim@gmail.com
+Prof. Kyane Bomfim Santos       \|   kyanebomfim@gmail.com
 
 Grupo de informações:
 
@@ -13,7 +13,7 @@ Grupo de informações:
 ****
 ****
 
-#### Alua 01 - (06/10)
+#### Aula 01 - (06/10)
 
 1. Apresentação do curso
 

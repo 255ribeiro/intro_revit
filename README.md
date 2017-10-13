@@ -8,10 +8,10 @@ Grupo de informações:
 
 [https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2](https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2)
 
-# Plano de Aulas
+## Plano de Aulas
 
-****
-****
+<hr>
+<hr>
 
 #### Aula 01 - (06/10)
 
@@ -57,9 +57,9 @@ Grupo de informações:
 
 1. Referências e Links
  
-***
+<hr>
 
-#### Aula 02 - (13/10)*
+#### Aula 02 - (13/10)
 1. Ajustes iniciais
     * Unidades de desenho
     * Cópias de segurança
@@ -85,45 +85,9 @@ Grupo de informações:
     * Painéis
  
  
-***
+<hr>
 
-#### Aula 03 - (20/10)*
-1. Malha de Pilares
-    * Comando Grid (GR)
-    * criação de pilares
-        * Pilares estruturais
-        * Colunas arquitetônicas
-        * Editor de famílias
-1. Vigas
-    * Carregando famílias
-    * Editor de famílias
-    * Sistemas de vigas
-1. Base vetorial
-    * Lajes
-    * Paredes
-
- 
-***
-
-
-#### Aula 04 - (27/10)
-
-1. Fundações
-    * Inserção de Fundações
-
-1. Treliças
-    * Editor de famílias
-    * Inserção de treliça
-1. Coberturas
-    * Cobertura por extrusão
-    * Telhados de multiplas águas
-    
-1. Vidraça Inclinada
-
- 
-***
-
-#### Aula 05 - (03/11)*
+#### Aula 03 - (27/10)
 
 1. Modelagem a partir de massas
 
@@ -150,9 +114,43 @@ Grupo de informações:
 
 [Tutorial de massas no Revit(ENG) M Smith](https://www.youtube.com/watch?v=1hqkX6IW6MQ&list=PL5fgrebBtwJIgZ9gH32qJ0WQYC1-avW2f)
 
-****
+#### Aula 03 - (03/11)
+1. Malha de Pilares
+    * Comando Grid (GR)
+    * criação de pilares
+        * Pilares estruturais
+        * Colunas arquitetônicas
+        * Editor de famílias
+1. Vigas
+    * Carregando famílias
+    * Editor de famílias
+    * Sistemas de vigas
+1. Base vetorial
+    * Lajes
+    * Paredes
 
-#### Aula 06 - (10/11)
+ 
+***
+
+
+#### Aula 04 - (10/11)
+
+1. Fundações
+    * Inserção de Fundações
+
+1. Treliças
+    * Editor de famílias
+    * Inserção de treliça
+1. Coberturas
+    * Cobertura por extrusão
+    * Telhados de multiplas águas
+    
+1. Vidraça Inclinada
+
+ 
+<hr>
+
+#### Aula 06 - (17/11)
 
 1. Modelagem de Rampas
     * Laje inclinada
@@ -168,7 +166,7 @@ Grupo de informações:
 ***
 
 
-#### Aula 07 - (17/11)
+#### Aula 07 - (14/11)
 
 1. Modelagem de Terrenos
     * Modelagem a partir de base vetorial
@@ -180,7 +178,7 @@ Grupo de informações:
  
 ***
 
-#### Aula 08 - (24/11)
+#### Aula 08 - (01/11)
 
 1. Orientação do trabalho de modelagem
 
@@ -188,7 +186,7 @@ Grupo de informações:
  
 ***
 
-#### Aula 09 - (01/12)
+#### Aula 09 - (15/12)
 
 1. Orientação do trabalho de modelagem
 
@@ -196,7 +194,7 @@ Grupo de informações:
 ***
 
 
-#### Aula 10 - (15/12)
+#### Aula 10 - (22/12)
 
 
 1. Orientação do trabalho de modelagem
@@ -208,7 +206,7 @@ Grupo de informações:
 ***
 
 
-#### Aula 11 - (22/12)
+#### Aula 11 - (12/01)
 
 1. Vistas e folhas
     * definindo escala
@@ -229,7 +227,7 @@ Grupo de informações:
 ***
 
 
-#### Aula 12 - (12/01)
+#### Aula 12 - (19/01)
 
 
 1. Hierarquia de penas
@@ -246,7 +244,7 @@ Grupo de informações:
 ***
 
 
-#### Aula 13 - (19/01)
+#### Aula 13 - (26/01)
 
 1. Quadro de áreas
     * áreas de comodos
@@ -258,7 +256,7 @@ Grupo de informações:
 
 ***
 
-#### Aula 14 - (26/01)
+#### Aula 14 - (02/02)
 
 1. Estudo de Sombras
     * Coordenadas Geográficas
@@ -276,13 +274,13 @@ Grupo de informações:
 ***
 
 
-#### Aula 15 - (02/02)
+#### Aula 15 - (16/02)
 
 1. Orientação do segundo trabalho
 
 ****
 
-#### Aula 16 - (09/02)
+#### Aula 16 - (23/02)
 
 1. Entrega do segundo trabalho
 
@@ -290,7 +288,7 @@ Grupo de informações:
 ****
 
 
-#### Aula 17 - (23/02)
+#### Aula 17 - (?/02)
 
 1. Avaliação do curso
 

@@ -125,6 +125,12 @@ Grupo de informações:
 
 #### Alua 05 - (03/11)*
 
+1. Modelagem a partir de massas
+
+[instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
+
+   * modelagem no local
+   
 1. Paredes
     * Materiais
     * Camadas
@@ -132,11 +138,13 @@ Grupo de informações:
     * Cortinas de vidro
         * Montantes
         * Paineis
-1. Modelagem a partir de bases raster
-    * Inserção das imagens
-    * Escala da imagem
-    * Modelagem de paredes
-    * Inserção de esquadrias
+        
+1. Pisos
+
+    * Materiais
+    * Camadas
+    * 
+
     
 1. Referências e Links
 

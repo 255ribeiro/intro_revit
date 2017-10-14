@@ -18,6 +18,8 @@
 
 1. elementos do entorno são opcionais e devem estar locados em layer próprio;
 
+1. coloque as massas perto da orígem do espaço vetorial.
+
 
 ![exemplo 01](exemploMassas.jpg "figura 01 - exemplo de estudo com dois grupos de massas" )
 

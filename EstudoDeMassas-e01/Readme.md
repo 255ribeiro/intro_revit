@@ -21,13 +21,13 @@
 1. coloque as massas perto da orígem do espaço vetorial.
 
 
-![exemplo 01](exemploMassas.jpg "figura 01 - exemplo de estudo com dois grupos de massas" )
+![exemplo 01](exemploMassas.jpg  )
 
 *figura 01 exemplo de estudo com dois grupos de massas*
 
 
 
-![exemplo 02](https://github.com/255ribeiro/Intro_Revit/blob/master/EstudoDeMassas-e01/exemploMassas_02%20.jpg "figura 02 - exemplo de sólidos fechados" )
+![exemplo 02](exemploMassas_02%20.jpg  )
 
 
 *figura 02 sólidos fechados*

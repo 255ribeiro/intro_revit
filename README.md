@@ -27,7 +27,7 @@ Grupo de informações:
     - Bim x CAD
     - Ciclo de vida das edificações
     - Modelagem paramétrica
-    
+
 1. Interface do programa
     * Tela inicial
       * Abrindo um projeto / Templates de projeto
@@ -49,14 +49,14 @@ Grupo de informações:
     * Options Bar
     * Project Browser (navegador de projeto)
       * Abrindo e fechando o navegador de projetos \| menu vistas -> interface do usuário -> navegador de projetos
-      
+
     * Properties Pallets (PP) (propriedades)
     * Type Selector (Seletor de Tipos)
-    
+
 1. Instalação do Programa
 
 1. Referências e Links
- 
+
 <hr>
 
 #### Aula 02 - (13/10)
@@ -77,14 +77,14 @@ Grupo de informações:
     * Portas e janelas
         * Hierarquia dos elementos no Revit
             * Categoria
-            * família 
+            * família
             * Tipo
             * instância
 1. Paredes de cortina
     * Montante
     * Painéis
- 
- 
+
+
 <hr>
 
 #### Dia 20/10 : Não haverá aula. Existe um exercício para fazer em casa, e trazer na próxima aula.
@@ -101,29 +101,37 @@ Grupo de informações:
 1. Modelagem a partir de massas
 
    * Modelagem no local
-   
+
    * Importando sólidos modelados em outros programas
-   
+
 1. Paredes
     * Materiais
     * Camadas
-    * Paredes empilahdas
+    * Paredes Empilhadas
     * Cortinas de vidro
+        * Eixos
         * Montantes
-        * Paineis
-        
+            * Perfis
+        * Painéis
+        * Esquadrias
+
 1. Pisos
 
     * Materiais
     * Camadas
-    * 
+    * *Steel Deck*
+    * Vãos
 
-    
+1. Cobertura
+
+1. União e divisão de elementos
+
+
 1. Referências e Links
 
-[Tutorial de massas no Revit(ENG) M Smith](https://www.youtube.com/watch?v=1hqkX6IW6MQ&list=PL5fgrebBtwJIgZ9gH32qJ0WQYC1-avW2f)
+    [Tutorial de massas no Revit(ENG) M Smith](https://www.youtube.com/watch?v=1hqkX6IW6MQ&list=PL5fgrebBtwJIgZ9gH32qJ0WQYC1-avW2f)
 
-[Tutorial de exportação do Sketchup para o Revit](https://www.youtube.com/watch?v=qShQSwh33Bs)
+    [Tutorial de exportação do Sketchup para o Revit](https://www.youtube.com/watch?v=qShQSwh33Bs)
 
 <hr>
 
@@ -142,7 +150,7 @@ Grupo de informações:
     * Lajes
     * Paredes
 
- 
+
 <hr>
 
 
@@ -156,11 +164,11 @@ Grupo de informações:
     * Inserção de treliça
 1. Coberturas
     * Cobertura por extrusão
-    * Telhados de multiplas águas
-    
+    * Telhados de múltiplas águas
+
 1. Vidraça Inclinada
 
- 
+
 <hr>
 
 #### Aula 06 - (17/11)
@@ -169,13 +177,13 @@ Grupo de informações:
     * Laje inclinada
     * Rampa
         * Inclinação e descansos
-        
+
 1. Modelagem de escadas
-    * Formula de blondel
-    
+    * Formula de Blondel
+
 1. Corrimão e guarda-corpo
 
- 
+
 <hr>
 
 
@@ -187,8 +195,8 @@ Grupo de informações:
     * Corte e aterro
         * Plataformas
         * Talude
-        
- 
+
+
 <hr>
 
 #### Aula 08 - (01/11)
@@ -196,7 +204,7 @@ Grupo de informações:
 1. Orientação do trabalho de modelagem
 
 
- 
+
 <hr>
 
 #### Aula 09 - (15/12)
@@ -225,7 +233,7 @@ Grupo de informações:
     * *Object Styles
     * *Visibility Graphics
     * Margens
-    
+
 1. famílias de anotações
     * Norte
     * Cotas
@@ -244,11 +252,11 @@ Grupo de informações:
     * *Object Styles*
     * *Visibility Graphics*
     * *lineWork Tool*
-    
+
 1. Hachuras de Piso e paredes
     * Hachuras de modelo
     * Hachuras de desenho
-    
+
 
 <hr>
 
@@ -258,7 +266,7 @@ Grupo de informações:
 1. Quadro de áreas
     * áreas de comodos
     * áreas totais
-    
+
 
 1. Tabelas de Quantitativos
 
@@ -272,7 +280,7 @@ Grupo de informações:
     * Norte veradeiro
     * Configurando Sombras
     * Data e hora
-    
+
 2. Render
     * Materiais
     * Luzes
@@ -292,7 +300,7 @@ Grupo de informações:
 
 1. Entrega do segundo trabalho
 
- 
+
 <hr>
 
 
@@ -305,16 +313,3 @@ Grupo de informações:
 
 <hr>
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-

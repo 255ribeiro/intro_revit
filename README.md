@@ -97,7 +97,7 @@ Grupo de informações:
 
 [Exemplo Rhino](./EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
 
-[Exemplo SketchUp](./EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
+[Exemplo SketchUp](./EstudoDeMassasTesteSketchUp/testeSketchUp.skp)
 
 
 

@@ -87,7 +87,7 @@ Grupo de informações:
 
 <hr>
 
-#### Dia 20/10 : Não haverá aula. Existe um exercício para fazer em casa, e trazer na próxima aula.
+#### Dia 20/10 : Não haverá aula. Existe um exercício para fazer em casa e trazer na próxima aula.
 
 #### Exercício: [Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
 

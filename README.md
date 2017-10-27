@@ -95,7 +95,11 @@ Grupo de informações:
 
 #### Aula 03 - (27/10)
 
-[Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
+[Exemplo Rhino](./EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
+
+[Exemplo SketchUp](./EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
+
+
 
 
 1. Modelagem a partir de massas

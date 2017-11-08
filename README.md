@@ -8,7 +8,7 @@ Grupo de informações:
 
 [https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2](https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2)
 
-###[Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
+### [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
 
 ## Plano de Aulas
 

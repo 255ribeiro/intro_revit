@@ -7,9 +7,10 @@ Prof. Kyane Bomfim Santos \| kyanebomfim@gmail.com
 Grupo de informações:
 
 [https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2](https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2)
+<hr>
 
 ### [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
-
+<hr>
 ## Plano de Aulas
 
 <hr>
@@ -236,8 +237,8 @@ Grupo de informações:
 1. Vistas e folhas
     * definindo escala
     * Definindo Nível de detalhe
-    * *Object Styles
-    * *Visibility Graphics
+    * *Object Styles*
+    * *Visibility Graphics*
     * Margens
 
 1. famílias de anotações

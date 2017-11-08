@@ -1,8 +1,8 @@
 # Informática e Desenho II
 
-Prof. Fernando Ferraz Ribeiro   \|   fernando.ribeiro@ufba.br
+Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-Prof. Kyane Bomfim Santos       \|   kyanebomfim@gmail.com
+Prof. Kyane Bomfim Santos \| kyanebomfim@gmail.com
 
 Grupo de informações:
 

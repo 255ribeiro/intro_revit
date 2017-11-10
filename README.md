@@ -4,13 +4,16 @@ Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 Prof. Kyane Bomfim Santos \| kyanebomfim@gmail.com
 
-Grupo de informações:
+<hr>
+
+Grupo de informações (e-mail):
 
 [https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2](https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2)
 <hr>
 
 ### [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
 <hr>
+
 ## Plano de Aulas
 
 <hr>
@@ -143,6 +146,9 @@ Grupo de informações:
 <hr>
 
 #### Aula 04 - (03/11)
+
+[Bases Mies](./Farnsworth-Mies.zip)
+
 1. Malha de Pilares
     * Comando Grid (GR)
     * criação de pilares

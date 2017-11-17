@@ -162,13 +162,7 @@ Grupo de informações (e-mail):
 1. Base vetorial
     * Lajes
     * Paredes
-
-
-<hr>
-
-
-#### Aula 05 - (10/11)
-
+    *
 1. Fundações
     * Inserção de Fundações
 
@@ -176,15 +170,34 @@ Grupo de informações (e-mail):
     * Editor de famílias
     * Inserção de treliça
 1. Coberturas
-    * Cobertura por extrusão
-    * Telhados de múltiplas águas
+        * Cobertura por extrusão
+        * Telhados de múltiplas águas
 
 1. Vidraça Inclinada
 
 
+
 <hr>
 
-#### Aula 06 - (17/11)
+
+#### Aula 05 - (17/11)
+
+[Bases Reidy](./Casa_Carmen_Portinho_Reidy.zip)
+
+1. Terrenos
+    * inserindo dwg
+    * planos de referência
+    * Plataformas
+    * 
+2. Pisos inclinados
+
+3. coberturas
+
+
+
+<hr>
+
+#### Aula 06 - (24/11)
 
 1. Modelagem de Rampas
     * Laje inclinada
@@ -200,7 +213,7 @@ Grupo de informações (e-mail):
 <hr>
 
 
-#### Aula 07 - (14/11)
+#### Aula 07 - (1/12)
 
 1. Modelagem de Terrenos
     * Modelagem a partir de base vetorial

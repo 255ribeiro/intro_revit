@@ -182,7 +182,7 @@ Grupo de informações (e-mail):
 
 #### Aula 05 - (17/11)
 
-[Bases Reidy](./Casa_Carmen_Portinho_Reidy.zip)
+[Bases Reidy](https://github.com/255ribeiro/Intro_Revit/blob/master/Casa%20Carmen%20Portinho%20-%20Reidy.zip)
 
 1. Terrenos
     * inserindo dwg

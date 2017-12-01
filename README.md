@@ -162,7 +162,7 @@ Grupo de informações (e-mail):
 1. Base vetorial
     * Lajes
     * Paredes
-    *
+
 1. Fundações
     * Inserção de Fundações
 
@@ -188,7 +188,7 @@ Grupo de informações (e-mail):
     * inserindo dwg
     * planos de referência
     * Plataformas
-    * 
+
 2. Pisos inclinados
 
 3. coberturas
@@ -208,6 +208,10 @@ Grupo de informações (e-mail):
     * Formula de Blondel
 
 1. Corrimão e guarda-corpo
+
+2. Referências e Links
+
+[edição de escada e guarda-corpo PDF](https://revitclass.files.wordpress.com/2012/07/insanelygreatstairs.pdf)
 
 
 <hr>

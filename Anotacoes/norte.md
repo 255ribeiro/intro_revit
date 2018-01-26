@@ -73,3 +73,13 @@ Com o norte verdadeiro configurado, qulaquer vista de planta pode ser orientada 
 <hr>
 
 ### Editando Símbolo de Norte
+
+Para inserir um símbolo de indicação de norte, na aba **Anotar**, no painel **Simbolos**, procure o comando **Simbolo**
+
+<hr>
+
+![Girando o Norte ](simb_norte.jpg)
+
+<hr>
+
+Os *Templates* instalados com o Revit não carregam nenhuma família de símbolos. 

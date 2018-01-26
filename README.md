@@ -263,14 +263,16 @@ Grupo de informações (e-mail):
     * *Object Styles*
     * *Visibility Graphics*
     * Margens
+    * Carimbos
+
 
 1. famílias de anotações
-    * Norte
-    * Cotas
+    * Norte : [configurando anotação de norte e norte verdadeiro](./Anotacoes/norte.md)
+    * Cotas : [Instruções para configuração das cotas ](./Anotacoes/cotas.md)
     * Níveis
     * Textos
-    * Rotulos
-    * Carimbos
+    * Legendas
+    * Tags
 
 <hr>
 

@@ -72,14 +72,47 @@ Com o norte verdadeiro configurado, qulaquer vista de planta pode ser orientada 
 <hr>
 <hr>
 
-### Editando Símbolo de Norte
+### Inserindo Símbolo de Norte
+
+Antes de inserir um Símbolo de norte, abra a vista de planta onde deseja inserir o símbolo e mude a orientação da vista para norte verdadeiro.
+
 
 Para inserir um símbolo de indicação de norte, na aba **Anotar**, no painel **Simbolos**, procure o comando **Simbolo**
 
 <hr>
 
-![Girando o Norte ](simb_norte.jpg)
+![Inserindo Símbolos especiais](simb_norte.jpg)
 
 <hr>
 
-Os *Templates* instalados com o Revit não carregam nenhuma família de símbolos. 
+Os *Templates* instalados com o Revit não carregam nenhuma família de símbolos (anotações genéricas). Neste caso, uma caixa de diálogo te dá a opção de inserir um símbolo de anotação genérica, clique em **sim** para inserir.
+
+<hr>
+
+![Inserindo Símbolos especiais](simb_mensagem.png)
+
+<hr>
+
+Caso já existam famílias de **anotações genéricas** inseridas, procure na **paleta de propiedades** por uma indicação de norte. Caso não tenha, vá em **carregar família** para inserir um símbolo a partir de um arquivo de família.
+
+<hr>
+
+![Inserindo Símbolos especiais](Inserindo_simbolos.jpg)
+
+<hr>
+
+Clicando sim na mensagem ou optando por carregar uma família, o Revit abrira uma janela de seleção de arquivos. Procure a pasta anotações.
+
+<hr>
+
+![procurando simbolo de norte](procurando_norte.jpg)
+
+<hr>
+
+Na pasta anotações, procure o arquivo Seta norte-1.rfa. Clique em abrir.
+
+<hr>
+
+![carregando simbolo](procurando_norte_02.jpg)
+
+<hr>

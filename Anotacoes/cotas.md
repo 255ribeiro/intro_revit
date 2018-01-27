@@ -4,7 +4,9 @@ As cotas no Revit são famílias do sistema.
 Para utilizar uma cota, na aba Anotar e clique na opção cota alinhada.
 
 <hr>
+
 ![Comando Cota](cotas_fig_01.png)
+
 <hr>
 
 
@@ -19,6 +21,7 @@ Na barra de opções podemos escolher como cotar uma parede de acordo com seus e
 <hr>
 
 Também, em alguns casos, podemos cotar paredes inteiras automaticamente ou selecionar os pontos individualmente
+
 <hr>
 
 ![Barras de opções das cotas parte 2](cotas_fig_03.png)
@@ -41,6 +44,8 @@ Com o comando de cotas ativado, clique em **editar tipo** na paleta de proprieda
 
 Renomeie o Tipo antes de começar a edição.
 
+<hr>
+
 ![Renomeando](contas_config_01.png)
 
 <hr>
@@ -56,6 +61,8 @@ Alterações recomendadas dos gráficos das cotas:
     - Controle da linha de chamada da cota = fixo para a linha de cota
     - Comprimento da linha de chamada de cota = 4 ou 5 mm
     - Extensão da linha de chamada de cota = 1,0 mm
+
+
 <hr>
 
 ![Alterações recomendadas na aba de Texto](contas_config_03.jpg)
@@ -85,7 +92,12 @@ Na aba **Gerenciar**, clique no botão **configurações adicionais** e em segui
 
 Na caixa de diálogo das pontas de seta **renomeie e salve o tipo**. Neste exemplo vou utilizar um ponto.
 
+
+<hr>
+
 ![configurando o ponto - Dot](contas_config_marca.jpg)
+
+<hr>
 
     - Estilo de seta = pontilhado
     - Preenchimento da Marca de Revisão = Marque a caixa

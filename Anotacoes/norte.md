@@ -109,10 +109,32 @@ Clicando sim na mensagem ou optando por carregar uma família, o Revit abrira um
 
 <hr>
 
-Na pasta anotações, procure o arquivo Seta norte-1.rfa. Clique em abrir.
+Na pasta anotações, procure o arquivo Seta norte-1.rfa. Clique em **abrir**.
 
 <hr>
 
 ![carregando simbolo](procurando_norte_02.jpg)
 
 <hr>
+
+Ao abrir o arquivo, o Revit retornará para a vista de planta selecionada. Clique no ponto onde deseja inserir o símbolo.
+
+Com o símbolo de norte carregado no projeto, para inseri-lo em outras vistas, basta seguir os passos abaixo.
+
+* No navegador de projeto, abra a vista de planta que deseja inserir o símbolo de norte;
+
+* mude a orientação para norte verdadeiro;
+
+* Na aba **Anotar**, clique no botão símbolo.
+
+* Na **paleta de propriedades**, certifique-se que a seta de norte está aparecendo como o símbolo a ser inserido;
+
+* Caso contrário, clique no **seletor de tipo** para colocar a seta de norte como o símbolo a ser inserido.
+
+* clique no ponto onde deseja inserir o símbolo de norte.
+
+* retorne a orientação da vista para o norte de projeto.
+
+* repita a operação para as demais vistas.
+
+### Editando o Símbolo de norte

@@ -47,6 +47,8 @@ Renomeie o Tipo antes de começar a edição.
 
 ![Alterações recomendadas na aba de gráficos](contas_config_02.jpg)
 
+<hr>
+
 
 Alterações recomendadas dos gráficos das cotas:
 
@@ -55,7 +57,9 @@ Alterações recomendadas dos gráficos das cotas:
     - Comprimento da linha de chamada de cota = 4 ou 5 mm
     - Extensão da linha de chamada de cota = 1,0 mm
 <hr>
+
 ![Alterações recomendadas na aba de Texto](contas_config_03.jpg)
+
 <hr>
 
 Alterações recomendadas nos textos das cotas:
@@ -74,7 +78,9 @@ Com isso sua cota está razoavelmente configurada. Apenas o *Tick* ou *dot* que 
 Na aba **Gerenciar**, clique no botão **configurações adicionais** e em seguida procure a opção **pontas de setas**.
 
 <hr>
+
 ![configurando o ponto - Dot](contas_config_ponto.jpg)
+
 <hr>
 
 Na caixa de diálogo das pontas de seta **renomeie e salve o tipo**. Neste exemplo vou utilizar um ponto.
@@ -88,7 +94,9 @@ Na caixa de diálogo das pontas de seta **renomeie e salve o tipo**. Neste exemp
 Salve as alterações e volte para a edição do tipo da cota.
 
 <hr>
+
 ![configurando o ponto](contas_config_ponto_02.jpg)
+
 <hr>
 
     - Procure a opção Marca de revisão e altere para o nome do tipo de Ponta de seta que você salvou.

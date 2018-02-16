@@ -274,6 +274,12 @@ Grupo de informações (e-mail):
     * Legendas
     * Tags
 
+1. Templates ABNT Revit gratúitos:
+    1. [Actech](https://actech.net.br/template-abnt/)
+    2. [MCMV](https://www.aarquiteta.com.br/blog/revit-arquitetura/minha_casa_minha_vida/)
+    3. [Alan Araújo](https://www.projetoacg.com/index.php/servicos/cursos/revit/template-revit-download/)
+
+
 <hr>
 
 
@@ -283,11 +289,14 @@ Grupo de informações (e-mail):
 1. Hierarquia de penas
     * *Object Styles*
     * *Visibility Graphics*
+        - modelos de vistas
+        - criar, aplicar, remover
     * *lineWork Tool*
 
 1. Hachuras de Piso e paredes
     * Hachuras de modelo
     * Hachuras de desenho
+    * Materiais
 
 
 <hr>
@@ -296,11 +305,20 @@ Grupo de informações (e-mail):
 #### Aula 13 - (26/01)
 
 1. Quadro de áreas
-    * áreas de comodos
+    * áreas de cômodos
     * áreas totais
 
 
 1. Tabelas de Quantitativos
+
+1. Impressão
+    * DWG
+    * DWF
+    * PDF
+        - Impresoras PDF
+            - [FlexiPDF Basic](http://www.freeoffice.com/pt/descobrir/flexipdf-basic)
+            - [PDF Creator](http://www.pdfforge.org/pdfcreator)
+
 
 
 <hr>

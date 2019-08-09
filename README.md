@@ -71,6 +71,8 @@ Grupo de informações (e-mail):
 
 #### Aula 02 - (13/10)
 
+![UN](./config_init/UN.gif)
+
 1. Ajustes iniciais
     * Unidades de desenho
     * Cópias de segurança

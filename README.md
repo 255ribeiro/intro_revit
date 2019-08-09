@@ -9,15 +9,16 @@ Prof. Kyane Bomfim Santos \| kyanebomfim@gmail.com
 Grupo de informações (e-mail):
 
 [https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2](https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2)
+
 <hr>
 
-### [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
+## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
+
 <hr>
 
 ## Plano de Aulas
 
 <hr>
-
 
 #### Aula 01 - (06/10)
 
@@ -29,12 +30,15 @@ Grupo de informações (e-mail):
 1. Funcionamento do Laboratório
 
 1. Introdução ao BIM
-    - Conceito
-    - Bim x CAD
-    - Ciclo de vida das edificações
-    - Modelagem paramétrica
+    * Conceito
+    * Bim x CAD
+    * Ciclo de vida das edificações
+    * Modelagem paramétrica
 
 1. Interface do programa
+
+![PP_PBrow](.\Interface\PbrowPP.gif)
+
     * Tela inicial
       * Abrindo um projeto / Templates de projeto
       * Abrindo um arquivo de famílias / Templates de Famílias
@@ -54,10 +58,10 @@ Grupo de informações (e-mail):
       * Menu de contexto
     * Options Bar
     * Project Browser (navegador de projeto)
-      * Abrindo e fechando o navegador de projetos \| menu vistas -> interface do usuário -> navegador de projetos
+        * Abrindo e fechando o navegador de projetos \| menu vistas -> interface do usuário -> navegador de projetos
 
     * Properties Pallets (PP) (propriedades)
-    * Type Selector (Seletor de Tipos)
+        * Type Selector (Seletor de Tipos)
 
 1. Instalação do Programa
 
@@ -66,6 +70,7 @@ Grupo de informações (e-mail):
 <hr>
 
 #### Aula 02 - (13/10)
+
 1. Ajustes iniciais
     * Unidades de desenho
     * Cópias de segurança
@@ -90,10 +95,9 @@ Grupo de informações (e-mail):
     * Montante
     * Painéis
 
-
 <hr>
 
-#### Dia 20/10 : Não haverá aula. Existe um exercício para fazer em casa e trazer na próxima aula.
+#### Dia 20/10 : Não haverá aula. Existe um exercício para fazer em casa e trazer na próxima aula
 
 #### Exercício: [Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
 
@@ -104,9 +108,6 @@ Grupo de informações (e-mail):
 [Exemplo Rhino](./EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
 
 [Exemplo SketchUp](./EstudoDeMassasTesteSketchUp/testeSketchUp.skp)
-
-
-
 
 1. Modelagem a partir de massas
 
@@ -135,7 +136,6 @@ Grupo de informações (e-mail):
 1. Cobertura
 
 1. União e divisão de elementos
-
 
 1. Referências e Links
 
@@ -175,10 +175,7 @@ Grupo de informações (e-mail):
 
 1. Vidraça Inclinada
 
-
-
 <hr>
-
 
 #### Aula 05 - (17/11)
 
@@ -192,8 +189,6 @@ Grupo de informações (e-mail):
 2. Pisos inclinados
 
 3. coberturas
-
-
 
 <hr>
 
@@ -209,13 +204,11 @@ Grupo de informações (e-mail):
 
 1. Corrimão e guarda-corpo
 
-2. Referências e Links
+1. Referências e Links
 
 [edição de escada e guarda-corpo PDF](https://revitclass.files.wordpress.com/2012/07/insanelygreatstairs.pdf)
 
-
 <hr>
-
 
 #### Aula 07 - (1/12)
 
@@ -226,14 +219,11 @@ Grupo de informações (e-mail):
         * Plataformas
         * Talude
 
-
 <hr>
 
 #### Aula 08 - (01/11)
 
 1. Orientação do trabalho de modelagem
-
-
 
 <hr>
 
@@ -243,17 +233,13 @@ Grupo de informações (e-mail):
 
 <hr>
 
-
 #### Aula 10 - (22/12)
-
 
 1. Orientação do trabalho de modelagem
 
 1. Entrega do trabalho de modelagem
 
-
 <hr>
-
 
 #### Aula 11 - (12/01)
 
@@ -264,7 +250,6 @@ Grupo de informações (e-mail):
     * *Visibility Graphics*
     * Margens
     * Carimbos
-
 
 1. famílias de anotações
     * Norte : [configurando anotação de norte e norte verdadeiro](./Anotacoes/norte.md)
@@ -279,12 +264,9 @@ Grupo de informações (e-mail):
     2. [MCMV](https://www.aarquiteta.com.br/blog/revit-arquitetura/minha_casa_minha_vida/)
     3. [Alan Araújo](https://www.projetoacg.com/index.php/servicos/cursos/revit/template-revit-download/)
 
-
 <hr>
 
-
 #### Aula 12 - (19/01)
-
 
 1. Hierarquia de penas
     * *Object Styles*
@@ -298,16 +280,13 @@ Grupo de informações (e-mail):
     * Hachuras de desenho
     * Materiais
 
-
 <hr>
-
 
 #### Aula 13 - (26/01)
 
 1. Quadro de áreas
     * áreas de cômodos
     * áreas totais
-
 
 1. Tabelas de Quantitativos
 
@@ -318,8 +297,6 @@ Grupo de informações (e-mail):
         - Impresoras PDF
             - [FlexiPDF Basic](http://www.freeoffice.com/pt/descobrir/flexipdf-basic)
             - [PDF Creator](http://www.pdfforge.org/pdfcreator)
-
-
 
 <hr>
 
@@ -339,7 +316,6 @@ Grupo de informações (e-mail):
 
 <hr>
 
-
 #### Aula 15 - (16/02)
 
 1. Orientação do segundo trabalho
@@ -350,16 +326,13 @@ Grupo de informações (e-mail):
 
 1. Entrega do segundo trabalho
 
-
 <hr>
-
 
 #### Aula 17 - (?/02)
 
 1. Avaliação do curso
 
 1. Notas
-
 
 <hr>
 <hr>

@@ -2,7 +2,7 @@
 
 Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-Prof. Kyane Bomfim Santos \| kyanebomfim@gmail.com
+Prof. Beth Leite Soares \| bethsoaress@gmail.com
 
 <hr>
 

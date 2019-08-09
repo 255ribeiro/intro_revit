@@ -8,7 +8,7 @@ ____
 
 Moodle da Disciplina:
 
-[ARQA20 - 2019.2 - Desenho Projetivo](https://www.moodle.ufba.br/user/index.php?contextid=758924&roleid=0&id=7162&search&perpage=5000)
+[ARQA37 - 2019.2 - Informática e Desenho II](https://www.moodle.ufba.br/course/view.php?id=7164)
 
 ____
 

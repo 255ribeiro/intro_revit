@@ -4,21 +4,21 @@ Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 Prof. Beth Leite Soares \| bethsoaress@gmail.com
 
-<hr>
+____
 
 Moodle da Disciplina:
 
-[ARQA20 - 2019.2 - Desenho Projetivo]https://www.moodle.ufba.br/user/index.php?contextid=758924&roleid=0&id=7162&search&perpage=5000)
+[ARQA20 - 2019.2 - Desenho Projetivo](https://www.moodle.ufba.br/user/index.php?contextid=758924&roleid=0&id=7162&search&perpage=5000)
 
-<hr>
+____
 
 ## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
 
-<hr>
+____
 
-## Plano de Aulas
+### Plano de Aulas
 
-<hr>
+____
 
 #### Aula 01 - (06/10)
 
@@ -67,7 +67,7 @@ Moodle da Disciplina:
 
 1. Referências e Links
 
-<hr>
+____
 
 #### Aula 02 - (13/10)
 
@@ -97,13 +97,13 @@ Moodle da Disciplina:
     * Montante
     * Painéis
 
-<hr>
+____
 
 #### Dia 20/10 : Não haverá aula. Existe um exercício para fazer em casa e trazer na próxima aula
 
 #### Exercício: [Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
 
-<hr>
+____
 
 #### Aula 03 - (27/10)
 
@@ -145,7 +145,7 @@ Moodle da Disciplina:
 
     [Tutorial de exportação do Sketchup para o Revit](https://www.youtube.com/watch?v=qShQSwh33Bs)
 
-<hr>
+____
 
 #### Aula 04 - (03/11)
 
@@ -177,7 +177,7 @@ Moodle da Disciplina:
 
 1. Vidraça Inclinada
 
-<hr>
+____
 
 #### Aula 05 - (17/11)
 
@@ -192,7 +192,7 @@ Moodle da Disciplina:
 
 3. coberturas
 
-<hr>
+____
 
 #### Aula 06 - (24/11)
 
@@ -210,7 +210,7 @@ Moodle da Disciplina:
 
 [edição de escada e guarda-corpo PDF](https://revitclass.files.wordpress.com/2012/07/insanelygreatstairs.pdf)
 
-<hr>
+____
 
 #### Aula 07 - (1/12)
 
@@ -221,19 +221,19 @@ Moodle da Disciplina:
         * Plataformas
         * Talude
 
-<hr>
+____
 
 #### Aula 08 - (01/11)
 
 1. Orientação do trabalho de modelagem
 
-<hr>
+____
 
 #### Aula 09 - (15/12)
 
 1. Orientação do trabalho de modelagem
 
-<hr>
+____
 
 #### Aula 10 - (22/12)
 
@@ -241,7 +241,7 @@ Moodle da Disciplina:
 
 1. Entrega do trabalho de modelagem
 
-<hr>
+____
 
 #### Aula 11 - (12/01)
 
@@ -255,7 +255,7 @@ Moodle da Disciplina:
 
 1. famílias de anotações
     * Norte : [configurando anotação de norte e norte verdadeiro](./Anotacoes/norte.md)
-    * Cotas : [Instruções para configuração das cotas ](./Anotacoes/cotas.md)
+    * Cotas : [Instruções para configuração das cotas](./Anotacoes/cotas.md)
     * Níveis
     * Textos
     * Legendas
@@ -266,15 +266,15 @@ Moodle da Disciplina:
     2. [MCMV](https://www.aarquiteta.com.br/blog/revit-arquitetura/minha_casa_minha_vida/)
     3. [Alan Araújo](https://www.projetoacg.com/index.php/servicos/cursos/revit/template-revit-download/)
 
-<hr>
+____
 
 #### Aula 12 - (19/01)
 
 1. Hierarquia de penas
     * *Object Styles*
     * *Visibility Graphics*
-        - modelos de vistas
-        - criar, aplicar, remover
+        * modelos de vistas
+        * criar, aplicar, remover
     * *lineWork Tool*
 
 1. Hachuras de Piso e paredes
@@ -282,7 +282,7 @@ Moodle da Disciplina:
     * Hachuras de desenho
     * Materiais
 
-<hr>
+____
 
 #### Aula 13 - (26/01)
 
@@ -296,11 +296,11 @@ Moodle da Disciplina:
     * DWG
     * DWF
     * PDF
-        - Impresoras PDF
-            - [FlexiPDF Basic](http://www.freeoffice.com/pt/descobrir/flexipdf-basic)
-            - [PDF Creator](http://www.pdfforge.org/pdfcreator)
+        * Impresoras PDF
+            * [FlexiPDF Basic](http://www.freeoffice.com/pt/descobrir/flexipdf-basic)
+            * [PDF Creator](http://www.pdfforge.org/pdfcreator)
 
-<hr>
+____
 
 #### Aula 14 - (02/02)
 
@@ -316,19 +316,17 @@ Moodle da Disciplina:
     * Pós-produção
     * Percurso em vídeo
 
-<hr>
+____
 
 #### Aula 15 - (16/02)
 
 1. Orientação do segundo trabalho
 
-****
-
 #### Aula 16 - (23/02)
 
 1. Entrega do segundo trabalho
 
-<hr>
+____
 
 #### Aula 17 - (?/02)
 
@@ -336,5 +334,5 @@ Moodle da Disciplina:
 
 1. Notas
 
-<hr>
-<hr>
+____
+____

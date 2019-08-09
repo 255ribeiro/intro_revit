@@ -20,7 +20,7 @@ ____
 
 ____
 
-#### Aula 01 - (06/10)
+#### Aula 01 -
 
 1. Apresentação do curso
 
@@ -69,7 +69,7 @@ ____
 
 ____
 
-#### Aula 02 - (13/10)
+#### Aula 02 -
 
 ![UN](./config_init/UN.gif)
 
@@ -105,7 +105,7 @@ ____
 
 ____
 
-#### Aula 03 - (27/10)
+#### Aula 03 -
 
 [Exemplo Rhino](./EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
 
@@ -147,7 +147,7 @@ ____
 
 ____
 
-#### Aula 04 - (03/11)
+#### Aula 04 -
 
 [Bases Mies](./Farnsworth-Mies.zip)
 
@@ -179,7 +179,7 @@ ____
 
 ____
 
-#### Aula 05 - (17/11)
+#### Aula 05 -
 
 [Bases Reidy](https://github.com/255ribeiro/Intro_Revit/blob/master/Casa%20Carmen%20Portinho%20-%20Reidy.zip)
 
@@ -194,7 +194,7 @@ ____
 
 ____
 
-#### Aula 06 - (24/11)
+#### Aula 06 -
 
 1. Modelagem de Rampas
     * Laje inclinada
@@ -212,7 +212,7 @@ ____
 
 ____
 
-#### Aula 07 - (1/12)
+#### Aula 07 -
 
 1. Modelagem de Terrenos
     * Modelagem a partir de base vetorial
@@ -223,19 +223,19 @@ ____
 
 ____
 
-#### Aula 08 - (01/11)
+#### Aula 08 -
 
 1. Orientação do trabalho de modelagem
 
 ____
 
-#### Aula 09 - (15/12)
+#### Aula 09 -
 
 1. Orientação do trabalho de modelagem
 
 ____
 
-#### Aula 10 - (22/12)
+#### Aula 10 -
 
 1. Orientação do trabalho de modelagem
 
@@ -243,7 +243,7 @@ ____
 
 ____
 
-#### Aula 11 - (12/01)
+#### Aula 11 -
 
 1. Vistas e folhas
     * definindo escala
@@ -268,7 +268,7 @@ ____
 
 ____
 
-#### Aula 12 - (19/01)
+#### Aula 12 -
 
 1. Hierarquia de penas
     * *Object Styles*
@@ -284,7 +284,7 @@ ____
 
 ____
 
-#### Aula 13 - (26/01)
+#### Aula 13 -
 
 1. Quadro de áreas
     * áreas de cômodos
@@ -302,7 +302,7 @@ ____
 
 ____
 
-#### Aula 14 - (02/02)
+#### Aula 14 -
 
 1. Estudo de Sombras
     * Coordenadas Geográficas
@@ -318,17 +318,17 @@ ____
 
 ____
 
-#### Aula 15 - (16/02)
+#### Aula 15 -
 
 1. Orientação do segundo trabalho
 
-#### Aula 16 - (23/02)
+#### Aula 16 -
 
 1. Entrega do segundo trabalho
 
 ____
 
-#### Aula 17 - (?/02)
+#### Aula 17 -
 
 1. Avaliação do curso
 

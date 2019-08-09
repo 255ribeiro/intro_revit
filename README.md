@@ -37,7 +37,7 @@ Grupo de informações (e-mail):
 
 1. Interface do programa
 
-    ![PP_PBrow](.\Interface\PbrowPP.gif)
+    ![PP_ProjBrow](./Interface/PbrowPP.gif)
 
     * Tela inicial
       * Abrindo um projeto / Templates de projeto

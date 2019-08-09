@@ -6,9 +6,9 @@ Prof. Beth Leite Soares \| bethsoaress@gmail.com
 
 <hr>
 
-Grupo de informações (e-mail):
+Moodle da Disciplina:
 
-[https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2](https://groups.google.com/forum/#!forum/20172-informatica_e_desenho_2)
+[ARQA20 - 2019.2 - Desenho Projetivo]https://www.moodle.ufba.br/user/index.php?contextid=758924&roleid=0&id=7162&search&perpage=5000)
 
 <hr>
 

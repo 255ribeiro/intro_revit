@@ -1,59 +1,57 @@
-#### Utilizando Cotas
+# Utilizando Cotas
 
 As cotas no Revit são famílias do sistema.
 Para utilizar uma cota, na aba Anotar e clique na opção cota alinhada.
 
-<hr>
+____
 
 ![Comando Cota](cotas_fig_01.png)
 
-<hr>
-
+____
 
 A cota alinhada é a mais utilizada na maioria dos projetos, seu atalho padrão é DI.
 
 Na barra de opções podemos escolher como cotar uma parede de acordo com seus eixos ou suas faces.
 
-<hr>
+____
 
 ![Barra de opções das cotas parte 1](cotas_fig_02.png)
 
-<hr>
+____
 
 Também, em alguns casos, podemos cotar paredes inteiras automaticamente ou selecionar os pontos individualmente
 
-<hr>
+____
 
 ![Barras de opções das cotas parte 2](cotas_fig_03.png)
 
-<hr>
+____
 
 Experimentando um pouco com estas opções e clicando nos objetos do desenho, é possível entender como cotar um desenho.
 
-#### Configurando Cotas
+## Configurando Cotas
 
 A configuração de cota que são instaladas junto com o Revit, contudo, precisam de ajustes.
 
 Com o comando de cotas ativado, clique em **editar tipo** na paleta de propriedades.
 
-<hr>
+____
 
 ![Abrindo o editor de tipos](cotasEditarTipo.jpg)
 
-<hr>
+____
 
 Renomeie o Tipo antes de começar a edição.
 
-<hr>
+____
 
 ![Renomeando](contas_config_01.png)
 
-<hr>
+____
 
 ![Alterações recomendadas na aba de gráficos](contas_config_02.jpg)
 
-<hr>
-
+____
 
 Alterações recomendadas dos gráficos das cotas:
 
@@ -62,12 +60,11 @@ Alterações recomendadas dos gráficos das cotas:
     - Comprimento da linha de chamada de cota = 4 ou 5 mm
     - Extensão da linha de chamada de cota = 1,0 mm
 
-
-<hr>
+____
 
 ![Alterações recomendadas na aba de Texto](contas_config_03.jpg)
 
-<hr>
+____
 
 Alterações recomendadas nos textos das cotas:
 
@@ -77,27 +74,25 @@ Alterações recomendadas nos textos das cotas:
     - Formato das unidades = metros e centímetros
     - Arredondamento = o mais próximo de 1 cm
 
-
 Com isso sua cota está razoavelmente configurada. Apenas o *Tick* ou *dot* que deve ser ajustado em outro local.
 
-#### Configurando a Marca da cota
+## Configurando a Marca da cota
 
 Na aba **Gerenciar**, clique no botão **configurações adicionais** e em seguida procure a opção **pontas de setas**.
 
-<hr>
+____
 
 ![configurando o ponto - Dot](contas_config_ponto.jpg)
 
-<hr>
+____
 
 Na caixa de diálogo das pontas de seta **renomeie e salve o tipo**. Neste exemplo vou utilizar um ponto.
 
-
-<hr>
+____
 
 ![configurando o ponto - Dot](contas_config_marca.jpg)
 
-<hr>
+____
 
     - Estilo de seta = pontilhado
     - Preenchimento da Marca de Revisão = Marque a caixa
@@ -105,11 +100,11 @@ Na caixa de diálogo das pontas de seta **renomeie e salve o tipo**. Neste exemp
 
 Salve as alterações e volte para a edição do tipo da cota.
 
-<hr>
+____
 
 ![configurando o ponto](contas_config_ponto_02.jpg)
 
-<hr>
+____
 
     - Procure a opção Marca de revisão e altere para o nome do tipo de Ponta de seta que você salvou.
     - Salve as alterações.

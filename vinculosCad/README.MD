@@ -1,16 +1,16 @@
 # Trabalhando Plantas do Autocad
 
-## Vínculos de arquivos cad no Revit
+## Vínculos de arquivos CAD no Revit
 
-O Revit permite a importação de arquivos cad de diversos formatos. Caso o projeto que esteja modelado tenha dados em algum destes formatos (topografia, edificações existentes, etc.), é possível importar os arquivos para auxiliar na modelagem.
+O Revit permite a importação de arquivos CAD de diversos formatos. Caso o projeto que esteja modelado tenha dados em algum destes formatos (topografia, edificações existentes, etc.), é possível importar os arquivos para auxiliar na modelagem.
 
 Para garantir a qualidade da informação, alguns cuidados devem ser seguidos:
 
 - Guarde sempre os arquivos originais
 - Monte uma estrutura de pastas para o seu projeto
-- Examine os arquivos de cad antes de importa-los, caso necessário, faça edições antes da importação
+- Examine os arquivos de CAD antes de importa-los, caso necessário, faça edições antes da importação
 
-## Guia: importação de informações de arquivos cad para o Revit
+## Guia: importação de informações de arquivos CAD para o Revit
 
 Este guia mostra o processo para a importação de arquivo topográfico e geração de terreno no Revit a partir de arquivos DWG. e a importação de um arquivo com uma planta baixa no mesmo formato.
 

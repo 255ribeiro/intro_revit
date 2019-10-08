@@ -24,7 +24,7 @@ ____
 
 1. Apresentação do curso
 
-    * Metodoloagia
+    * Metodologia
     * Avaliações
 
 1. Funcionamento do Laboratório
@@ -53,7 +53,7 @@ ____
       * Painéis
       * Botões simples
       * Botões duplos
-      * Expansão de paineis
+      * Expansão de painéis
       * Lançadores de diálogo
       * Menu de contexto
     * Options Bar
@@ -71,7 +71,7 @@ ____
 
 #### Aula 02 -
 
-![UN](./config_init/UN.gif)
+![UN](./config_init/UN2.gif)
 
 1. Ajustes iniciais
     * Unidades de desenho
@@ -80,7 +80,7 @@ ____
     * Níveis (LL)
         * relação entre níveis e vistas
     * Trabalhando com os níveis
-        * Lajes conectatas aos níveis
+        * Lajes conectadas aos níveis
         * Paredes entre dois níveis
 1. Exercício 01
     * Definindo os níveis
@@ -261,7 +261,7 @@ ____
     * Legendas
     * Tags
 
-1. Templates ABNT Revit gratúitos:
+1. Templates ABNT Revit gratuitos:
     1. [Actech](https://actech.net.br/template-abnt/)
     2. [MCMV](https://www.aarquiteta.com.br/blog/revit-arquitetura/minha_casa_minha_vida/)
     3. [Alan Araújo](https://www.projetoacg.com/index.php/servicos/cursos/revit/template-revit-download/)
@@ -296,7 +296,7 @@ ____
     * DWG
     * DWF
     * PDF
-        * Impresoras PDF
+        * Impressoras PDF
             * [FlexiPDF Basic](http://www.freeoffice.com/pt/descobrir/flexipdf-basic)
             * [PDF Creator](http://www.pdfforge.org/pdfcreator)
 
@@ -306,7 +306,7 @@ ____
 
 1. Estudo de Sombras
     * Coordenadas Geográficas
-    * Norte veradeiro
+    * Norte verdadeiro
     * Configurando Sombras
     * Data e hora
 

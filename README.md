@@ -6,7 +6,7 @@ Prof. Beth Leite Soares \| bethsoaress@gmail.com
 
 ____
 
-Moodle da Disciplina:
+## *Moodle* da Disciplina:
 
 [ARQA37 - 2019.2 - Informática e Desenho II](https://www.moodle.ufba.br/course/view.php?id=7164)
 
@@ -16,11 +16,11 @@ ____
 
 ____
 
-### Plano de Aulas
+## Plano de Aulas
 
 ____
 
-#### Aula 01 -
+### Aula 01
 
 1. Apresentação do curso
 
@@ -40,15 +40,15 @@ ____
     ![PP_ProjBrow](./Interface/PbrowPP.gif)
 
     * Tela inicial
-      * Abrindo um projeto / Templates de projeto
-      * Abrindo um arquivo de famílias / Templates de Famílias
+      * Abrindo um projeto / *Templates* de projeto
+      * Abrindo um arquivo de famílias / *Templates* de Famílias
     * Menu do aplicativo
-      * Botões simples e botões split
+      * Botões simples e botões *split*
       * Salvando um arquivo
       * Configurando número de cópias de segurança
     * Barra de acesso rápido
       * Uso e configuração
-    * Ribbon (faixa)
+    * *Ribbon* (faixa)
       * Abas
       * Painéis
       * Botões simples
@@ -56,12 +56,12 @@ ____
       * Expansão de painéis
       * Lançadores de diálogo
       * Menu de contexto
-    * Options Bar
-    * Project Browser (navegador de projeto)
+    * *Options Bar* (barra de opções)
+    * *Project Browser* (navegador de projeto)
         * Abrindo e fechando o navegador de projetos \| menu vistas -> interface do usuário -> navegador de projetos
 
-    * Properties Pallets (PP) (propriedades)
-        * Type Selector (Seletor de Tipos)
+    * *Properties Pallets* (PP) (propriedades)
+        * *Type Selector* (Seletor de Tipos)
 
 1. Instalação do Programa
 
@@ -69,7 +69,7 @@ ____
 
 ____
 
-#### Aula 02 -
+### Aula 02
 
 ![UN](./config_init/UN2.gif)
 
@@ -99,13 +99,11 @@ ____
 
 ____
 
-#### Dia 20/10 : Não haverá aula. Existe um exercício para fazer em casa e trazer na próxima aula
-
-#### Exercício: [Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
+### Exercício: [Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
 
 ____
 
-#### Aula 03 -
+### Aula 03
 
 [Exemplo Rhino](./EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
 
@@ -147,7 +145,7 @@ ____
 
 ____
 
-#### Aula 04 -
+### Aula 04
 
 [Bases Mies](./Farnsworth-Mies.zip)
 
@@ -179,13 +177,13 @@ ____
 
 ____
 
-#### Aula 05 -
+### Aula 05
 
 [Bases Reidy](https://github.com/255ribeiro/Intro_Revit/blob/master/Casa%20Carmen%20Portinho%20-%20Reidy.zip)
 
 1. Terrenos
-    * inserindo dwg
-    * planos de referência
+    * Inserindo Arquivos DWG
+    * Níveis  de referência
     * Plataformas
 
 2. Pisos inclinados
@@ -194,7 +192,7 @@ ____
 
 ____
 
-#### Aula 06 -
+### Aula 06
 
 1. Modelagem de Rampas
     * Laje inclinada
@@ -212,7 +210,7 @@ ____
 
 ____
 
-#### Aula 07 -
+### Aula 07
 
 1. Modelagem de Terrenos
     * Modelagem a partir de base vetorial
@@ -223,19 +221,19 @@ ____
 
 ____
 
-#### Aula 08 -
+### Aula 08
 
 1. Orientação do trabalho de modelagem
 
 ____
 
-#### Aula 09 -
+### Aula 09
 
 1. Orientação do trabalho de modelagem
 
 ____
 
-#### Aula 10 -
+### Aula 10
 
 1. Orientação do trabalho de modelagem
 
@@ -243,7 +241,7 @@ ____
 
 ____
 
-#### Aula 11 -
+### Aula 11
 
 1. Vistas e folhas
     * definindo escala
@@ -268,7 +266,7 @@ ____
 
 ____
 
-#### Aula 12 -
+### Aula 12
 
 1. Hierarquia de penas
     * *Object Styles*
@@ -284,7 +282,7 @@ ____
 
 ____
 
-#### Aula 13 -
+### Aula 13
 
 1. Quadro de áreas
     * áreas de cômodos
@@ -302,7 +300,7 @@ ____
 
 ____
 
-#### Aula 14 -
+### Aula 14
 
 1. Estudo de Sombras
     * Coordenadas Geográficas
@@ -318,17 +316,17 @@ ____
 
 ____
 
-#### Aula 15 -
+### Aula 15
 
 1. Orientação do segundo trabalho
 
-#### Aula 16 -
+### Aula 16
 
 1. Entrega do segundo trabalho
 
 ____
 
-#### Aula 17 -
+### Aula 17
 
 1. Avaliação do curso
 

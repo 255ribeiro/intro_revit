@@ -6,7 +6,7 @@ Prof. Beth Leite Soares \| bethsoaress@gmail.com
 
 ____
 
-## *Moodle* da Disciplina:
+## *Moodle* da Disciplina
 
 [ARQA37 - 2019.2 - Informática e Desenho II](https://www.moodle.ufba.br/course/view.php?id=7164)
 

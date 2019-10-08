@@ -75,7 +75,7 @@ ____
 
 Antes de inserir um Símbolo de norte, abra a vista de planta onde deseja inserir o símbolo e mude a orientação da vista para norte verdadeiro.
 
-Para inserir um símbolo de indicação de norte, na aba **Anotar**, no painel **Simbolos**, procure o comando **Simbolo**
+Para inserir um símbolo de indicação de norte, na aba **Anotar**, no painel **Símbolos**, procure o comando **Símbolo**
 
 ____
 
@@ -91,7 +91,7 @@ ____
 
 ____
 
-Caso já existam famílias de **anotações genéricas** inseridas, procure na **paleta de propiedades** por uma indicação de norte. Caso não tenha, vá em **carregar família** para inserir um símbolo a partir de um arquivo de família.
+Caso já existam famílias de **anotações genéricas** inseridas, procure na **paleta de propriedades** por uma indicação de norte. Caso não tenha, vá em **carregar família** para inserir um símbolo a partir de um arquivo de família.
 
 ____
 
@@ -103,7 +103,7 @@ Clicando sim na mensagem ou optando por carregar uma família, o Revit abrira um
 
 ____
 
-![procurando simbolo de norte](procurando_norte.jpg)
+![procurando símbolo de norte](procurando_norte.jpg)
 
 ____
 
@@ -111,7 +111,7 @@ Na pasta anotações, procure o arquivo Seta norte-1.rfa. Clique em **abrir**.
 
 ____
 
-![carregando simbolo](procurando_norte_02.jpg)
+![carregando símbolo](procurando_norte_02.jpg)
 
 ____
 

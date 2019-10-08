@@ -27,7 +27,7 @@ ____
 
 ____
 
-Experimentando um pouco com estas opções e clicando nos objetos do desenho, é possível entender como cotar um desenho.
+Experimentando um pouco com estas opções e clicando nos objetos do desenho, é possível entender como cotar uma planta.
 
 ## Configurando Cotas
 
@@ -106,7 +106,7 @@ ____
 
 ____
 
-    - Procure a opção Marca de revisão e altere para o nome do tipo de Ponta de seta que você salvou.
-    - Salve as alterações.
+- Procure a opção Marca de revisão e altere para o nome do tipo de Ponta de seta que você salvou.
+- Salve as alterações.
 
 Sua cota está configurada. Ajuste as medidas de acordo com as normas e seu gosto pessoal.

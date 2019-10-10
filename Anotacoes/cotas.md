@@ -45,11 +45,11 @@ Renomeie o Tipo antes de começar a edição.
 
 ____
 
-![Renomeando](contas_config_01.png)
+![Renomeando](cotas_config_01.png)
 
 ____
 
-![Alterações recomendadas na aba de gráficos](contas_config_02.jpg)
+![Alterações recomendadas na aba de gráficos](cotas_config_02.jpg)
 
 ____
 
@@ -62,7 +62,7 @@ Alterações recomendadas dos gráficos das cotas:
 
 ____
 
-![Alterações recomendadas na aba de Texto](contas_config_03.jpg)
+![Alterações recomendadas na aba de Texto](cotas_config_03.jpg)
 
 ____
 
@@ -82,7 +82,7 @@ Na aba **Gerenciar**, clique no botão **configurações adicionais** e em segui
 
 ____
 
-![configurando o ponto - Dot](contas_config_ponto.jpg)
+![configurando o ponto - Dot](cotas_config_ponto.jpg)
 
 ____
 
@@ -90,7 +90,7 @@ Na caixa de diálogo das pontas de seta **renomeie e salve o tipo**. Neste exemp
 
 ____
 
-![configurando o ponto - Dot](contas_config_marca.jpg)
+![configurando o ponto - Dot](cotas_config_marca.jpg)
 
 ____
 
@@ -102,7 +102,7 @@ Salve as alterações e volte para a edição do tipo da cota.
 
 ____
 
-![configurando o ponto](contas_config_ponto_02.jpg)
+![configurando o ponto](cotas_config_ponto_02.jpg)
 
 ____
 

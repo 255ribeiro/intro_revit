@@ -46,8 +46,13 @@ Renomeie o Tipo antes de começar a edição.
 ____
 
 ![Renomeando](cotas_config_01.png)
+____
+
+![Renomeando](cotas_config_01A.png)
 
 ____
+
+### Elementos gráficos da cota
 
 ![Alterações recomendadas na aba de gráficos](cotas_config_02.jpg)
 
@@ -109,4 +114,4 @@ ____
 - Procure a opção Marca de revisão e altere para o nome do tipo de Ponta de seta que você salvou.
 - Salve as alterações.
 
-Sua cota está configurada. Ajuste as medidas de acordo com as normas e seu gosto pessoal.
+Sua cota está configurada. As os valores podem ser reajustados de acordo com as normas e seu gosto pessoal.

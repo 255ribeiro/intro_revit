@@ -45,7 +45,7 @@ Renomeie o Tipo antes de começar a edição.
 
 ____
 
-![Renomeando](cotas_config_01.png)
+![Renomeando](cotas_config_01.jpg)
 ____
 
 ![Renomeando](cotas_config_01A.png)
@@ -92,7 +92,7 @@ Com isso sua cota está razoavelmente configurada. Apenas o *Tick* ou *dot* que 
 
 ### Configurando a Marca da cota
 
-Na aba **Gerenciar**, clique no botão **configurações adicionais** e em seguida procure a opção **pontas de setas**.
+Na aba **Gerenciar**, clique no botão **Configurações adicionais** e em seguida procure a opção **Pontas de setas**.
 
 ____
 
@@ -100,7 +100,7 @@ ____
 
 ____
 
-Na caixa de diálogo das pontas de seta **renomeie e salve o tipo**. Neste exemplo vou utilizar um ponto.
+O editor de tipo será aberto para a edição das pontas de seta. Antes de começar a editar **duplique e renomeie o tipo**. Neste exemplo vou utilizar um ponto. O tipo da família dos sistema de pontos de seta foi renomeado como "ponto".
 
 ____
 

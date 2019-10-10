@@ -96,7 +96,7 @@ Na aba **Gerenciar**, clique no botão **configurações adicionais** e em segui
 
 ____
 
-![configurando o ponto - Dot](cotas_config_ponto.jpg)
+![configurando o ponto - Dot](cotas_config_ponto_LI.jpg)
 
 ____
 
@@ -105,6 +105,10 @@ Na caixa de diálogo das pontas de seta **renomeie e salve o tipo**. Neste exemp
 ____
 
 ![configurando o ponto - Dot](cotas_config_marca.jpg)
+
+____
+
+![configurando o ponto - Dot](cotas_config_marcaA.jpg)
 
 ____
 
@@ -117,6 +121,10 @@ Salve as alterações e volte para a edição do tipo da cota.
 ____
 
 ![configurando o ponto](cotas_config_ponto_02.jpg)
+
+____
+
+![configurando o ponto](cotas_config_ponto_02A.jpg)
 
 ____
 

@@ -58,6 +58,10 @@ ____
 
 ____
 
+![Alterações recomendadas na aba de gráficos](cotas_config_02A.jpg)
+
+____
+
 Alterações recomendadas dos gráficos das cotas:
 
     - Extensão da linha de cota = 1,0 mm
@@ -73,6 +77,9 @@ ____
 
 ____
 
+![Alterações recomendadas na aba de Texto](cotas_config_03A.jpg)
+____
+
 Alterações recomendadas nos textos das cotas:
 
     - Tamanho do Texto = 2 mm
@@ -83,7 +90,7 @@ Alterações recomendadas nos textos das cotas:
 
 Com isso sua cota está razoavelmente configurada. Apenas o *Tick* ou *dot* que deve ser ajustado em outro local.
 
-## Configurando a Marca da cota
+### Configurando a Marca da cota
 
 Na aba **Gerenciar**, clique no botão **configurações adicionais** e em seguida procure a opção **pontas de setas**.
 
@@ -116,4 +123,4 @@ ____
 - Procure a opção Marca de revisão e altere para o nome do tipo de Ponta de seta que você salvou.
 - Salve as alterações.
 
-Sua cota está configurada. As os valores podem ser reajustados de acordo com as normas e seu gosto pessoal.
+Sua cota está configurada. Os valores podem ser reajustados de acordo com as normas e seu gosto pessoal.

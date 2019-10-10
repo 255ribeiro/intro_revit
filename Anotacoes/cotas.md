@@ -67,6 +67,8 @@ Alterações recomendadas dos gráficos das cotas:
 
 ____
 
+### Elementos textuais das cotas
+
 ![Alterações recomendadas na aba de Texto](cotas_config_03.jpg)
 
 ____

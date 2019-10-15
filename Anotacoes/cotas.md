@@ -50,8 +50,6 @@ ____
 
 <div style="text-align:center"><img src="cotas_config_01A.png" /></div>
 
-
-
 ____
 
 ### Elementos gráficos da cota
@@ -61,7 +59,6 @@ ____
 ____
 
 <div style="text-align:center"><img src="cotas_config_02A.jpg" /></div>
-
 
 ____
 

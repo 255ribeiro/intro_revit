@@ -48,7 +48,9 @@ ____
 ![Renomeando](cotas_config_01.jpg)
 ____
 
-![Renomeando](cotas_config_01A.png)
+<div style="text-align:center"><img src="cotas_config_01A.png" /></div>
+
+
 
 ____
 
@@ -58,7 +60,8 @@ ____
 
 ____
 
-![Alterações recomendadas na aba de gráficos](cotas_config_02A.jpg)
+<div style="text-align:center"><img src="cotas_config_02A.jpg" /></div>
+
 
 ____
 
@@ -77,7 +80,7 @@ ____
 
 ____
 
-![Alterações recomendadas na aba de Texto](cotas_config_03A.jpg)
+<div style="text-align:center"><img src="cotas_config_03A.jpg" /></div>
 ____
 
 Alterações recomendadas nos textos das cotas:
@@ -108,7 +111,8 @@ ____
 
 ____
 
-![configurando o ponto - Dot](cotas_config_marcaA.jpg)
+<div style="text-align:center"><img src="cotas_config_marcaA.jpg" /></div>
+
 
 ____
 
@@ -124,7 +128,8 @@ ____
 
 ____
 
-![configurando o ponto](cotas_config_ponto_02A.jpg)
+<div style="text-align:center"><img src="cotas_config_ponto_02A.jpg" /></div>
+
 
 ____
 

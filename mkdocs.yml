@@ -1,0 +1,58 @@
+site_name: Introdução ao Revit
+theme:
+  name: material   
+  language: en-custom
+  custom_dir: docs\overrides
+  
+
+site_url: "https://255ribeiro.github.io/curso_python_gis/"
+repo_url: "https://github.com/255ribeiro/curso_python_gis/"
+repo_name: "255ribeiro/curso_python_gis" 
+
+nav:
+  - Home: index.md
+  - Editais das Avaliações: EditaisDasAvaliacoes\Readme.md
+  
+  - Introdução ao BIM: BIM_intro\bim_intro.md
+
+  - Revit:
+      - Instalação do Revit: instala\instala.md
+      - Interface: cientif_py\numpy.md
+      - Configurações iniciais: cientif_py\scipy.md
+      - Níveis e malhas: cientif_py\plt.md
+      - Elementos construtivos básicos
+        - Paredes: cientif_py\jupyter_intro.ipynb
+        - Lajes: 
+        - Portas e janelas:
+        - Cobertura:
+        - Escadas:
+        - Rampas:
+        - Pilares:
+        - Fundações:
+        - Vigas:
+        - Treliças:
+      - Massa e Terreno:
+        - terrenos: 
+        - modelagem de massas:
+      - Editor de famílias:
+        - criando famílias de pilares:
+      - Representação:
+        - Hierarquia de linhas:
+        - Hachura de piso e parede:
+        - Quadro de áreas:
+        - Tabelas de quatitativo:
+        - Impressão:
+        - Estudos de sombra:
+        - Render:
+    - Links e downloads:
+
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+
+extra_css:
+  - overrides/css/extra_css.css
+
+plugins:
+  - mkdocs-jupyter

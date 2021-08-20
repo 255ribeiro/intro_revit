@@ -99,7 +99,7 @@ ____
 
 ___
 
-[Exercício casa Noruega](https://github.com/255ribeiro/Intro_Revit/blob/master/materialDeExercicios/CASA_NOROEGA_TYIN_Tegnestue_Architects.zip)
+[Exercício casa Noruega](./materialDeExercicios/CASA_NOROEGA_TYIN_Tegnestue_Architects.zip)
 
 ____
 
@@ -151,7 +151,7 @@ ____
 
 ### Aula 04
 
-[Bases Mies](./Farnsworth-Mies.zip)
+[Bases Mies](./materialDeExercicios/Farnsworth-Mies.zip)
 
 1. Malha de Pilares
     * Comando Grid (GR)
@@ -183,7 +183,7 @@ ____
 
 ### Aula 05
 
-[Bases Reidy](https://github.com/255ribeiro/Intro_Revit/blob/master/Casa%20Carmen%20Portinho%20-%20Reidy.zip)
+[Bases Reidy](./materialDeExercicios/Casa_Carmen_Portinho_Reidy.zip)
 
 1. Terrenos
     * Inserindo Arquivos DWG

@@ -97,6 +97,10 @@ ____
     * Montante
     * Painéis
 
+___
+
+[Exercício casa Noruega](https://github.com/255ribeiro/Intro_Revit/blob/master/materialDeExercicios/CASA_NOROEGA_TYIN_Tegnestue_Architects.zip)
+
 ____
 
 #### Exercício: [Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)

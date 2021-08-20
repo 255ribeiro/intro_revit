@@ -2,13 +2,13 @@
 
 Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-Prof. Beth Leite Soares \| bethsoaress@gmail.com
+Profa. Natalie Johanna Groetelaars \| natgroet@ufba.br
 
 ____
 
 ## *Moodle* da Disciplina
 
-[ARQA37 - 2019.2 - Informática e Desenho II](https://www.moodle.ufba.br/course/view.php?id=7164)
+[ARQA37 - 2019.2 - Informática e Desenho II](https://ava.ufba.br/course/view.php?id=43367)
 
 ____
 

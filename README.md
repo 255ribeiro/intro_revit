@@ -37,7 +37,7 @@ ____
 
 1. Interface do programa
 
-    ![PP_ProjBrow](./Interface/PbrowPP.gif)
+    ![PP_ProjBrow](./init_revit/PbrowPP.gif)
 
     * Tela inicial
       * Abrindo um projeto / *Templates* de projeto

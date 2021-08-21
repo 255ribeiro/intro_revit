@@ -5,9 +5,9 @@ theme:
   custom_dir: docs\overrides
   
 
-site_url: "https://255ribeiro.github.io/curso_python_gis/"
-repo_url: "https://github.com/255ribeiro/curso_python_gis/"
-repo_name: "255ribeiro/curso_python_gis" 
+site_url: "https://255ribeiro.github.io/Intro_Revit/"
+repo_url: "https://github.com/255ribeiro/Intro_Revit/"
+repo_name: "255ribeiro/Intro_Revit" 
 
 nav:
   - Home: index.md
@@ -16,35 +16,39 @@ nav:
   - Introdução ao BIM: BIM_intro\bim_intro.md
 
   - Revit:
-      - Instalação do Revit: instala\instala.md
-      - Interface: cientif_py\numpy.md
-      - Configurações iniciais: cientif_py\scipy.md
-      - Níveis e malhas: cientif_py\plt.md
-      - Elementos construtivos básicos
-        - Paredes: cientif_py\jupyter_intro.ipynb
-        - Lajes: 
-        - Portas e janelas:
-        - Cobertura:
-        - Escadas:
-        - Rampas:
-        - Pilares:
-        - Fundações:
-        - Vigas:
-        - Treliças:
+      - Instalação do Revit: init_revit\instala.md
+      - Interface: init_revit\interface.md
+      - Configurações iniciais: init_revit\configura.md
+      - Níveis e eixos: init_revit\ll_gr.md
+      - Elementos construtivos básicos:
+        - Paredes: elementos_constructivos\paredes.md
+        - pisos: elementos_constructivos\pisos.md
+        - Portas e janelas: elementos_constructivos\esquadrias.md
+        - Cobertura: elementos_constructivos\cobertura.md
+        - Escadas: elementos_constructivos\escadas.md
+        - Rampas: elementos_constructivos\rampas.md
+        - Pilares: elementos_constructivos\pilares.md
+        - Fundações: elementos_constructivos\fundacoes.md
+        - Vigas: elementos_constructivos\vigas.md
+        - Treliças: elementos_constructivos\trelicas.md
       - Massa e Terreno:
-        - terrenos: 
-        - modelagem de massas:
+        - Terrenos: massa_e_terreno\terrenos.md
+        - Modelagem de massas: massa_e_terreno\massa.md
       - Editor de famílias:
-        - criando famílias de pilares:
+        - Criando famílias de pilares: editorfamilias/familiasPilares.md
       - Representação:
-        - Hierarquia de linhas:
-        - Hachura de piso e parede:
-        - Quadro de áreas:
-        - Tabelas de quatitativo:
-        - Impressão:
-        - Estudos de sombra:
-        - Render:
-    - Links e downloads:
+        - Dimensões e cotas: representacao\representa.md
+        - Textos: representacao\representa.md
+        - Hierarquia de linhas: representacao\representa.md
+        - Hachura de piso e parede: representacao\representa.md
+        - Quadro de áreas: representacao\representa.md 
+        - Tabelas de quatitativo: representacao\representa.md
+        - Impressão: representacao\representa.md
+        - Estudos de sombra: representacao\representa.md
+        - Render: representacao\representa.md
+      - Links e downloads:
+        - Links: representacao\representa.md
+        - downloads: representacao\representa.md
 
 
 markdown_extensions:

@@ -12,7 +12,7 @@ ____
 
 ____
 
-## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
+## [Edital das Avaliações](./docs/EditaisDasAvaliacoes/Readme.md)
 
 ____
 
@@ -37,7 +37,7 @@ ____
 
 1. Interface do programa
 
-    ![PP_ProjBrow](./init_revit/PbrowPP.gif)
+    ![PP_ProjBrow](./docs/init_revit/PbrowPP.gif)
 
     * Tela inicial
       * Abrindo um projeto / *Templates* de projeto
@@ -71,7 +71,7 @@ ____
 
 ### Aula 02
 
-![UN](./config_init/UN2.gif)
+![UN](./docs/config_init/UN2.gif)
 
 1. Ajustes iniciais
     * Unidades de desenho
@@ -99,19 +99,19 @@ ____
 
 ___
 
-[Exercício casa Noruega](./materialDeExercicios/CASA_NOROEGA_TYIN_Tegnestue_Architects.zip)
+[Exercício casa Noruega](./docs/materialDeExercicios/CASA_NOROEGA_TYIN_Tegnestue_Architects.zip)
 
 ____
 
-#### Exercício: [Instruções para modelagem das massas](./EstudoDeMassas-e01/Readme.md)
+#### Exercício: [Instruções para modelagem das massas](./docs/EstudoDeMassas-e01/Readme.md)
 
 ____
 
 ### Aula 03
 
-[Exemplo Rhino](./EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
+[Exemplo Rhino](./docs/EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
 
-[Exemplo SketchUp](./EstudoDeMassasTesteSketchUp/testeSketchUp.skp)
+[Exemplo SketchUp](./docs/EstudoDeMassasTesteSketchUp/testeSketchUp.skp)
 
 1. Modelagem a partir de massas
 
@@ -151,7 +151,7 @@ ____
 
 ### Aula 04
 
-[Bases Mies](./materialDeExercicios/Farnsworth-Mies.zip)
+[Bases Mies](./docs/materialDeExercicios/Farnsworth-Mies.zip)
 
 1. Malha de Pilares
     * Comando Grid (GR)
@@ -183,7 +183,7 @@ ____
 
 ### Aula 05
 
-[Bases Reidy](./materialDeExercicios/Casa_Carmen_Portinho_Reidy.zip)
+[Bases Reidy](./docs/materialDeExercicios/Casa_Carmen_Portinho_Reidy.zip)
 
 1. Terrenos
     * Inserindo Arquivos DWG
@@ -256,8 +256,8 @@ ____
     * Carimbos
 
 1. famílias de anotações
-    * Norte : [configurando anotação de norte e norte verdadeiro](./Anotacoes/norte.md)
-    * Cotas : [Instruções para configuração das cotas](./Anotacoes/cotas.md)
+    * Norte : [configurando anotação de norte e norte verdadeiro](./docs/Anotacoes/norte.md)
+    * Cotas : [Instruções para configuração das cotas](./docs/Anotacoes/cotas.md)
     * Níveis
     * Textos
     * Legendas

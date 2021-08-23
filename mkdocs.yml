@@ -1,8 +1,10 @@
 site_name: Introdução ao Revit
 use_directory_urls: false
+
+copyright: Copyright &copy; 2016 - 2021 Fernando Ferraz Ribeiro
+
 theme:
   features:
-
 
     #- navigation.sections
     - toc.integrate
@@ -34,47 +36,47 @@ repo_name: "255ribeiro/Intro_Revit"
 
 nav:
   - Home: index.md
-  - Editais das Avaliações: EditaisDasAvaliacoes\Readme.md
+  - Editais das Avaliações: revit\EditaisDasAvaliacoes\Readme.md
   
   - Introdução ao BIM: BIM_intro\bim_intro.md
 
   - Revit:
-      - Instalação do Revit: init_revit\instala.md
-      - Interface: init_revit\interface.md
-      - Configurações iniciais: config_init\configura.md
-      - Níveis e eixos: init_revit\ll_gr.md
+      - Instalação do Revit: revit\init_revit\instala.md
+      - Interface:  revit\init_revit\interface.md
+      - Configurações iniciais:  revit\config_init\configura.md
+      - Níveis e eixos:  revit\init_revit\ll_gr.md
       - Elementos construtivos:
-        - Paredes: elementos_constructivos\paredes.md
-        - Pisos: elementos_constructivos\pisos.md
-        - Portas e janelas: elementos_constructivos\esquadrias.md
-        - Cobertura: elementos_constructivos\cobertura.md
-        - Escadas: elementos_constructivos\escadas.md
-        - Rampas: elementos_constructivos\rampas.md
-        - Pilares: elementos_constructivos\pilares.md
-        - Fundações: elementos_constructivos\fundacoes.md
-        - Vigas: elementos_constructivos\vigas.md
-        - Treliças: elementos_constructivos\trelicas.md
+        - Paredes:  revit\elementos_constructivos\paredes.md
+        - Pisos:  revit\elementos_constructivos\pisos.md
+        - Portas e janelas:  revit\elementos_constructivos\esquadrias.md
+        - Cobertura:  revit\elementos_constructivos\cobertura.md
+        - Escadas:  revit\elementos_constructivos\escadas.md
+        - Rampas:  revit\elementos_constructivos\rampas.md
+        - Pilares:  revit\elementos_constructivos\pilares.md
+        - Fundações:  revit\elementos_constructivos\fundacoes.md
+        - Vigas:  revit\elementos_constructivos\vigas.md
+        - Treliças:  revit\elementos_constructivos\trelicas.md
       - Massa e Terreno:
-        - Terrenos: massa_e_terreno\terrenos.md
-        - Plataforma e construção: massa_e_terreno\bpads.md
-        - Modelagem de massas: massa_e_terreno\massa.md
-        - inserção de massas: EstudoDeMassas-e01\Readme.md
+        - Terrenos:  revit\massa_e_terreno\terrenos.md
+        - Plataforma e construção:  revit\massa_e_terreno\bpads.md
+        - Modelagem de massas:  revit\massa_e_terreno\massa.md
+        - inserção de massas:  revit\EstudoDeMassas-e01\Readme.md
       - Editor de famílias:
-        - Criando famílias de pilares: editorfamilias/familiasPilares.md
+        - Criando famílias de pilares:  revit\editorfamilias\familiasPilares.md
       - Representação:
-        - Dimensões e cotas: Anotacoes\cotas.md
-        - Norte: Anotacoes\norte.md
-        - Textos: representacao\representa.md
-        - Hierarquia de linhas: representacao\representa.md
-        - Hachura de piso e parede: representacao\representa.md
-        - Quadro de áreas: representacao\representa.md 
-        - Tabelas de quatitativo: representacao\representa.md
-        - Impressão: representacao\representa.md
-        - Estudos de sombra: representacao\representa.md
-        - Render: representacao\representa.md
+        - Dimensões e cotas:  revit\Anotacoes\cotas.md
+        - Norte:  revit\Anotacoes\norte.md
+        - Textos:  revit\representacao\representa.md
+        - Hierarquia de linhas:  revit\representacao\representa.md
+        - Hachura de piso e parede:  revit\representacao\representa.md
+        - Quadro de áreas:  revit\representacao\representa.md 
+        - Tabelas de quatitativo:  revit\representacao\representa.md
+        - Impressão:  revit\representacao\representa.md
+        - Estudos de sombra:  revit\representacao\representa.md
+        - Render:  revit\representacao\representa.md
       - Links e downloads:
-        - Links: representacao\representa.md
-        - downloads: representacao\representa.md
+        - Links:  revit\representacao\representa.md
+        - downloads:  revit\representacao\representa.md
 
 
 markdown_extensions:
@@ -99,5 +101,7 @@ extra:
       - icon: fontawesome/brands/youtube
         link: https://www.youtube.com/channel/UCCkMaRdD7PBWhs4JgH5s6_w
       - icon: fontawesome/brands/linkedin
-        link: linkedin.com/in/fernando-ferraz-ribeiro-b49a7bb0
+        link: https://www.linkedin.com/in/fernando-ferraz-ribeiro-b49a7bb0/
+      - icon: fontawesome/solid/envelope-square
+        link: mailto:ffribeiro@gmail.com
         

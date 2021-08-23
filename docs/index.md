@@ -6,11 +6,13 @@ Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 Profa. Natalie Johanna Groetelaars \| natgroet@ufba.br
 
+Profa. Bruna Bittencourt Costa
+
 ____
 
 ## *Moodle* da Disciplina
 
-[ARQA37 - 2019.2 - Informática e Desenho II](https://ava.ufba.br/course/view.php?id=43367)
+[ARQA37 - 2021.2 - Informática e Desenho II](https://ava.ufba.br/course/view.php?id=43367)
 
 ____
 

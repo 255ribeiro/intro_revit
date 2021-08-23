@@ -1,9 +1,12 @@
-# Downloadas
+# Downloads
 
+-------
+
+## Arquivos dos exercícios
 
 ------------------
 
-## Exercício Casa Noruega
+### Exercício Casa Noruega
 
 [Arquivos PDF](./CasaNoruega/CasaNoruegaPDF.zip)
 

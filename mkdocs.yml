@@ -75,8 +75,8 @@ nav:
         - Estudos de sombra:  revit\representacao\representa.md
         - Render:  revit\representacao\representa.md
       - Links e downloads:
-        - Links:  revit\representacao\representa.md
-        - downloads:  revit\representacao\representa.md
+        - Links:  revit\links\links.md
+        - downloads:  revit\downloads_revit\downloads.md
 
 
 markdown_extensions:

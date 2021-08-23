@@ -4,11 +4,17 @@
 
 * A Avaliação será dividida em duas etapas
 
-    1. Modelagem do projeto
+<ol type="1">
 
-    2. Representação do projeto
+<li>Modelagem do projeto</li>
+
+<li>Representação do projeto</li>
+
+</ol>
 
   * As datas de entrega das etapas estão apresentadas no plano de curso da disciplina.
+  
+--------------------
 
 ### Etapa 01 - Modelagem do projeto
 

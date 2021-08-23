@@ -4,9 +4,9 @@
 
 * A Avaliação será dividida em duas etapas
 
-      1. Modelagem do projeto
+    1. Modelagem do projeto
 
-      2. Representação do projeto
+    2. Representação do projeto
 
   * As datas de entrega das etapas estão apresentadas no plano de curso da disciplina.
 
@@ -14,13 +14,13 @@
 
 * Criar um modelo BIM de um projeto de escolha ou autoria do aluno. O modelo deve conter:
 
-      1. Terreno com inclinação e/ou tratamento da topografia (corte/aterro/desníveis),
-      2. mínimo de dois pavimentos,
-      3. representação dos elementos estruturais,
-      4. descrição das camadas das paredes e lajes,
-      5. aberturas (vãos, portas, janelas),
-      6. peças sanitárias,
-      7. cobertura.
+    1. Terreno com inclinação e/ou tratamento da topografia (corte/aterro/desníveis),
+    2. mínimo de dois pavimentos,
+    3. representação dos elementos estruturais,
+    4. descrição das camadas das paredes e lajes,
+    5. aberturas (vãos, portas, janelas),
+    6. peças sanitárias,
+    7. cobertura.
 
   * O modelo deve ser entregue em formato RVT, outros formatos devem ser combinados e aprovados pelos professores.
 

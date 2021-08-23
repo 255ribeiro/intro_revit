@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://255ribeiro.github.io/Intro_Revit/revit/downloads_revit/downloads.html</loc>
+         <lastmod>2021-08-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://255ribeiro.github.io/Intro_Revit/revit/editorfamilias/familiasPilares.html</loc>
          <lastmod>2021-08-23</lastmod>
          <changefreq>daily</changefreq>
@@ -102,6 +107,11 @@
     </url>
     <url>
          <loc>https://255ribeiro.github.io/Intro_Revit/revit/init_revit/ll_gr.html</loc>
+         <lastmod>2021-08-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://255ribeiro.github.io/Intro_Revit/revit/links/links.html</loc>
          <lastmod>2021-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>

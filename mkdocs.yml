@@ -1,13 +1,36 @@
 site_name: Introdução ao Revit
+use_directory_urls: false
 theme:
+  features:
+
+
+    #- navigation.sections
+    - toc.integrate
+    #- navigation.tabs
   name: material   
   language: en-custom
   custom_dir: docs\overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: orange
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   
 
 site_url: "https://255ribeiro.github.io/Intro_Revit/"
 repo_url: "https://github.com/255ribeiro/Intro_Revit/"
 repo_name: "255ribeiro/Intro_Revit" 
+
 
 nav:
   - Home: index.md
@@ -18,11 +41,11 @@ nav:
   - Revit:
       - Instalação do Revit: init_revit\instala.md
       - Interface: init_revit\interface.md
-      - Configurações iniciais: init_revit\configura.md
+      - Configurações iniciais: config_init\configura.md
       - Níveis e eixos: init_revit\ll_gr.md
-      - Elementos construtivos básicos:
+      - Elementos construtivos:
         - Paredes: elementos_constructivos\paredes.md
-        - pisos: elementos_constructivos\pisos.md
+        - Pisos: elementos_constructivos\pisos.md
         - Portas e janelas: elementos_constructivos\esquadrias.md
         - Cobertura: elementos_constructivos\cobertura.md
         - Escadas: elementos_constructivos\escadas.md
@@ -33,11 +56,14 @@ nav:
         - Treliças: elementos_constructivos\trelicas.md
       - Massa e Terreno:
         - Terrenos: massa_e_terreno\terrenos.md
+        - Plataforma e construção: massa_e_terreno\bpads.md
         - Modelagem de massas: massa_e_terreno\massa.md
+        - inserção de massas: EstudoDeMassas-e01\Readme.md
       - Editor de famílias:
         - Criando famílias de pilares: editorfamilias/familiasPilares.md
       - Representação:
-        - Dimensões e cotas: representacao\representa.md
+        - Dimensões e cotas: Anotacoes\cotas.md
+        - Norte: Anotacoes\norte.md
         - Textos: representacao\representa.md
         - Hierarquia de linhas: representacao\representa.md
         - Hachura de piso e parede: representacao\representa.md
@@ -52,11 +78,26 @@ nav:
 
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
   - toc:
-      toc_depth: 3
+      toc_depth: 1
 
 extra_css:
   - overrides/css/extra_css.css
 
 plugins:
   - mkdocs-jupyter
+
+
+extra:
+  social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/255ribeiro
+      - icon: fontawesome/brands/youtube
+        link: https://www.youtube.com/channel/UCCkMaRdD7PBWhs4JgH5s6_w
+      - icon: fontawesome/brands/linkedin
+        link: linkedin.com/in/fernando-ferraz-ribeiro-b49a7bb0
+        

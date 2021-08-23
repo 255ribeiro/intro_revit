@@ -113,6 +113,8 @@ ____
 
 ____
 
+
+
     - Estilo de seta = pontilhado
     - Preenchimento da Marca de Revisão = Marque a caixa
     - tamanho da marca de revisão = 0,5 mm
@@ -125,7 +127,8 @@ ____
 
 ____
 
-<div style="text-align:center"><img src="cotas_config_ponto_02A.jpg" /></div>
+
+<div style="text-align:center"><img src=".\cotas_config_ponto_02A.jpg" /></div>
 
 
 ____

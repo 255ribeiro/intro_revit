@@ -22,4 +22,14 @@
 
 ### Mercado São Miguel
 
-[Mercado](./mercado_sao_miguel.zip)
+[Mercado São Miguel - PDF](./mercadoSaoMiguel/msm_pdf.zip)
+
+[Mercado São Miguel - DWG](./mercadoSaoMiguel/mercado_sao_miguel_dwg.zip)
+
+[Mercado São Miguel - Perfis estrutura](./mercadoSaoMiguel/msm_perfisEstrutura.zip)
+
+[Exemplo fundação](./mercadoSaoMiguel/fudacao_exemplo.rfa)
+
+
+--------------------
+

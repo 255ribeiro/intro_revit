@@ -24,5 +24,7 @@
 
 [20 sites para download de famílias do Revit e conteúdo BIM](https://www.arch2o.com/architects-download-revit-families-free/)
 
+[22 sites para baixar famílias gratuitas - Revit](https://www.vitrinerevit.com/sites-baixar-familias-revit)
+
 ---
 

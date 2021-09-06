@@ -31,6 +31,13 @@
 [Exemplo fundação](./mercadoSaoMiguel/fudacao_exemplo.rfa)
 
 
+---------------------
+
+### Fundações
+
+
+[Bloco quatro estacas](./blocoFundacao/Bloco%20de%20fundação%20-%201%20Estaca.rfa)
+
 --------------------
 
 

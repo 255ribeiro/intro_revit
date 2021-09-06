@@ -37,7 +37,7 @@
 
 [Sapata distribuída cônica](./blocoFundacao/Sapata_distribuida_Conica.rfa)
 
-[Sapata Retangular](./blocoFundacao/Sapata-Retangular.rfablocoFundacao/Sapata-Retangular.rfa)
+[Sapata Retangular](./blocoFundacao/Sapata-Retangular.rfa)
 
 [Bloco duas estacas](./blocoFundacao/Bloco_de_funda_2_Estacas.rfa)
 

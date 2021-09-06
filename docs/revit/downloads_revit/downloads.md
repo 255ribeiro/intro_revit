@@ -35,8 +35,26 @@
 
 ### Fundações
 
+[Sapata distribuída cônica](./blocoFundacao/Sapata_distribuida_Conica.rfa)
 
-[Bloco quatro estacas](./blocoFundacao/Bloco%20de%20fundação%20-%201%20Estaca.rfa)
+[Sapata Retangular](./blocoFundacao/Sapata-Retangular.rfablocoFundacao/Sapata-Retangular.rfa)
+
+[Bloco duas estacas](./blocoFundacao/Bloco_de_funda_2_Estacas.rfa)
+
+[Bloco três estacas](./blocoFundacao/Bloco_de_funda_3_Estacas.rfa)
+
+[Bloco quatro estacas](./blocoFundacao/Bloco_de_funda_4_Estacas.rfa)
+
+[Bloco cinco estacas](./blocoFundacao/Bloco_de_funda_5_Estacas.rfa)
+
+[Bloco seis estacas](./blocoFundacao/Bloco_de_funda_6_Estacas.rfa)
+
+[Bloco sete estacas](./blocoFundacao/Bloco_de_funda_7_Estacas.rfa)
+
+[Bloco oito estacas](./blocoFundacao/Bloco_de_funda_8_Estacas.rfa)
+
+[Bloco nove estacas](./blocoFundacao/Bloco_de_funda_9_Estacas.rfa)
+
 
 --------------------
 

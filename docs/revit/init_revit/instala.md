@@ -24,7 +24,7 @@ Os exemplos baseiam-se em uma instalação do **Revit 2022**, instalado em portu
 4. escolha a opção mais
 5. clique para abrir o local do arquivo
 
-Essas ações vão abrir a pasta do Windows onde ficam os arquivos de atalho utilizados para abrir o Revit.
+Essas ações vão abrir a pasta do Windows onde ficam os arquivos de atalho do menu iniciar utilizados para abrir o Revit.
 
 ![idioma](./idioma/idioma_01_LI.jpg)
 

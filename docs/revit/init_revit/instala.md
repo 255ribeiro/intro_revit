@@ -6,9 +6,17 @@
 
 [Instalação Revit 2022 - Canal Layout Arquitetura](https://www.youtube.com/watch?v=NW71aaIatlc)
 
-## Mudando de idioma
+## Mudando 0 idioma
 
-### Preparação e organização
+O guia abaixo é dividido em duas partes:
+
+A primeira, **Preparação**, mostra como organizar os arquivos do menu iniciar para mostrar duas opções, uma para abrir o Revit em português, outra em inglês.
+
+A segunda, **Configuração do idioma**, mostra como configurar uma atalho para iniciar o Revit utilizando um outro idioma.
+
+Os exemplos baseiam-se em uma instalação do **Revit 2022**, instalado em português, em um sistema operacional **Windows 10 Pro**, também instalado com o idioma português. 
+
+### Preparação
 
 1. Abra o menu iniciar
 2. no menu iniciar, abra a pasta Autodesk

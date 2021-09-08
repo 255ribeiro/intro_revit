@@ -8,7 +8,13 @@
 
 ## Mudando de idioma
 
-![idioma](idioma/idioma_02_LI.jpg)
+1. Abra o menu iniciar
+2. no menu iniciar, abra a pasta Autodesk
+3. clique com o botão direito no ícone do Revit
+4. escolha a opção mais
+5. clique para abrir o local do arquivo
+
+![idioma](./idioma/idioma_01_LI.jpg)
 
 
 ![idioma](idioma/idioma_03_LI.jpg)

@@ -6,6 +6,8 @@
 
 [Instalação Revit 2022 - Canal Layout Arquitetura](https://www.youtube.com/watch?v=NW71aaIatlc)
 
+[Corrigindo problemas na instação de famílias e templates do revit](https://knowledge.autodesk.com/pt-br/support/revit/troubleshooting/caas/sfdcarticles/sfdcarticles/PTB/Revit-Templates-and-families-not-installed.html)
+
 ## Mudando 0 idioma
 
 O guia abaixo é dividido em duas partes:

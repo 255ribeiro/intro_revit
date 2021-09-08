@@ -38,12 +38,12 @@ Para manter atalhos para o Revit em mais de um idioma, é preciso criar uma cóp
 O arquivo de atalho pode ser copiado utilizando as teclas ```ctrl + c```, e colado, utilizando as teclas ```ctrl + v```.
 
 
-![idioma](idioma/idioma_03_LI.jpg)
+![idioma](idioma/idioma_02_LI.jpg)
 
 ou, clicando com o botão direito no nome do atalho e escolhendo a opção copiar. Em seguida, pode-se clicar na opção colar, no explorador sde arquivos, ou clicar com o botão direito no espaço vazio da tela do explorador de arquivos e escolher a opção colar.
 
 
-![idioma](idioma/idioma_02_LI.jpg)
+![idioma](idioma/idioma_03_LI.jpg)
 
 Uma mensagem do sistema pode aparecer, exigindo requisitos de administrador para executar a tarefa. Caso estas mensagens apareçam em alguma das etapas deste guia, clique em continuar.
 

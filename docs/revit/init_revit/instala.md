@@ -56,11 +56,11 @@ Clique no arquivo com o botao direito e escolha a opção ```propriedades```.
 
 ![idioma](idioma/idioma_07_LI.jpg)
 
-Na caixa de diálogo de propriedades, no campo Destino. note que, após a indicação do caminho para o arquivo executável, aparece a opção e idioma na forma ```/language PTB```. Esse é o código para PorTuguês do Brasil. 
+Na caixa de diálogo de propriedades, no campo Destino. note que, após a indicação do caminho para o arquivo executável, aparece a opção e idioma na forma ```/language PTB```. Esse é o código para português do Brasil. 
 
 ![idioma](idioma/idioma_08_LI.jpg)
 
-Troque para ```/language ENU```, que indica o idioma Inglês nos estados Unidos. Aplique as alterações (2) ou clique no botão **OK**(3).
+Troque para ```/language ENU```, que indica o idioma Inglês nos estados Unidos (English United States). Aplique as alterações (2) ou clique no botão **OK**(3).
 
 
 

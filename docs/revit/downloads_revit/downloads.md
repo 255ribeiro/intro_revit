@@ -30,6 +30,10 @@
 
 [Exemplo fundação](./mercadoSaoMiguel/fudacao_exemplo.rfa)
 
+[COBERTURA CORTE](./mercadoSaoMiguel/coberturacorte.dwg)
+
+[COBERTURA CORTE EIXOS](./mercadoSaoMiguel/coberturacorteEixos.dwg)
+ 
 
 ---------------------
 

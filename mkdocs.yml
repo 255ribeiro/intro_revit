@@ -68,6 +68,7 @@ nav:
         - Norte:  revit\Anotacoes\norte.md
         - Textos:  revit\representacao\representa.md
         - Hierarquia de linhas:  revit\representacao\representa.md
+        - identificadores: revit\tags\tags.md
         - Hachura de piso e parede:  revit\representacao\representa.md
         - Quadro de áreas:  revit\representacao\representa.md
         - Mapas e Detalhes: revit\map_det\map_det.md

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="mat_est_ML.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0469634"
+     inkscape:cx="513.38947"
+     inkscape:cy="458.9463"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-292.60803"
+       y="3.4223161"
+       width="422.65604"
+       height="174.53812"
+       id="rect9966" />
+    <rect
+       x="42.689243"
+       y="56.534405"
+       width="117.68386"
+       height="44.996769"
+       id="rect7548" />
+    <rect
+       x="-292.60803"
+       y="3.4223161"
+       width="484.43897"
+       height="183.11908"
+       id="rect9966-0" />
+    <rect
+       x="-292.60803"
+       y="3.4223161"
+       width="422.65604"
+       height="174.53812"
+       id="rect9966-8" />
+    <rect
+       x="-292.60803"
+       y="3.4223161"
+       width="561.66764"
+       height="195.13243"
+       id="rect9966-9" />
+    <rect
+       x="-292.60803"
+       y="3.4223161"
+       width="422.65604"
+       height="174.53812"
+       id="rect9966-0-6" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#bdbdbd;fill-opacity:0.547504;stroke:#000000;stroke-width:1.12206;stroke-miterlimit:4;stroke-dasharray:2.2441, 1.12206;stroke-dashoffset:11.2206"
+       id="rect26376"
+       width="88.876556"
+       height="218.87794"
+       x="107.76724"
+       y="21.915007"
+       ry="20.489506" />
+    <rect
+       style="fill:#c85974;fill-opacity:0.531447;stroke:#000000;stroke-width:2.03778;stroke-miterlimit:4;stroke-dasharray:4.07556, 2.03778;stroke-dashoffset:20.3778"
+       id="rect31"
+       width="297.95737"
+       height="107.95808"
+       x="-27.657522"
+       y="93.134415"
+       ry="22.762247" />
+    <rect
+       style="fill:#90afce;fill-opacity:0.738994;stroke:#000000;stroke-width:1.94594;stroke-miterlimit:4;stroke-dasharray:3.89185, 1.94594;stroke-dashoffset:19.4594"
+       id="rect33"
+       width="298.05362"
+       height="98.05291"
+       x="28.042265"
+       y="39.454823"
+       ry="22.727488" />
+    <ellipse
+       style="fill:#f1d96b;fill-opacity:0.301887;stroke:#000000;stroke-width:1.53604;stroke-miterlimit:4;stroke-dasharray:3.07208, 1.53604;stroke-dashoffset:15.3604"
+       id="path715"
+       cx="153.02739"
+       cy="114.37788"
+       rx="40.348606"
+       ry="38.488426" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.2282728,0,0,0.27241697,89.069163,181.72289)"
+       id="text9964"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.9522px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9966);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-292.60742"
+         y="33.46164"
+         id="tspan51602"><tspan
+           style="font-size:33.9522px"
+           id="tspan51600">Estatística
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.2282728,0,0,0.2282728,202.49053,104.87394)"
+       id="text9964-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.0901px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9966-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-292.60742"
+         y="36.23792"
+         id="tspan51604">Machine 
+</tspan><tspan
+         x="-292.60742"
+         y="82.600545"
+         id="tspan51606">Learning
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.2282728,0,0,0.2282728,167.55914,8.1741404)"
+       id="text9964-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.0901px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9966-0);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-292.60742"
+         y="36.23792"
+         id="tspan51608">Ambiente Computacional
+</tspan><tspan
+         x="-292.60742"
+         y="82.600545"
+         id="tspan51610">
+</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.2282728,0,0,0.2282728,298.37959,44.842396)"
+       id="text9964-1-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.0901px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9966-0-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-292.60742"
+         y="36.23792"
+         id="tspan51612">Matemática
+</tspan><tspan
+         x="-292.60742"
+         y="82.600545"
+         id="tspan51614">
+</tspan></text>
+  </g>
+</svg>

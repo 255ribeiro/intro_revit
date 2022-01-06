@@ -69,7 +69,8 @@ nav:
         - Textos:  revit\representacao\representa.md
         - Hierarquia de linhas:  revit\representacao\representa.md
         - Hachura de piso e parede:  revit\representacao\representa.md
-        - Quadro de áreas:  revit\representacao\representa.md 
+        - Quadro de áreas:  revit\representacao\representa.md
+        - Mapas e Detalhes: revit\map_det\map_det.md
         - Tabelas de quatitativo:  revit\representacao\representa.md
         - Impressão:  revit\representacao\representa.md
         - Estudos de sombra:  revit\representacao\representa.md

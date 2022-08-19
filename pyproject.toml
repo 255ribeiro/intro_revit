@@ -8,9 +8,6 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.10"
 
-
-
-
 [tool.poetry.dev-dependencies]
 pymdown-extensions = "^8.2"
 mkdocs = "^1.2.2"
@@ -21,5 +18,5 @@ Markdown = "^3.3.4"
 Pygments = "^2.10.0"
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core>=1.1.14"]
 build-backend = "poetry.core.masonry.api"

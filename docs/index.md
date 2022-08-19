@@ -22,7 +22,7 @@ ____
 
 ____
 
-### Aula 01
+### Aula 01 - 19/08/22
 
 1. Apresentação do curso
 
@@ -70,7 +70,7 @@ ____
 
 ____
 
-### Aula 02
+### Aula 02 - 26/08/22
 
 ![UN](./revit/config_init/UN2.gif)
 
@@ -108,7 +108,7 @@ ____
 
 ____
 
-### Aula 03
+### Aula 03 - 02/09/22
 
 [Exemplo Rhino](./revit/EstudoDeMassasTesteRhino/teste_rhino_01.3dm)
 
@@ -150,7 +150,7 @@ ____
 
 ____
 
-### Aula 04
+### Aula 04 - 09/09/22
 
 [Bases Mies](./revit/materialDeExercicios/Farnsworth-Mies.zip)
 
@@ -182,7 +182,7 @@ ____
 
 ____
 
-### Aula 05
+### Aula 05 - 16/09/22
 
 [Bases Reidy](./revit/materialDeExercicios/Casa_Carmen_Portinho_Reidy.zip)
 
@@ -197,7 +197,7 @@ ____
 
 ____
 
-### Aula 06
+### Aula 06 -23/09/22
 
 1. Modelagem de Rampas
     * Laje inclinada
@@ -215,7 +215,7 @@ ____
 
 ____
 
-### Aula 07
+### Aula 07 - 30/09/22
 
 1. Modelagem de Terrenos
     * Modelagem a partir de base vetorial
@@ -226,19 +226,19 @@ ____
 
 ____
 
-### Aula 08
+### Aula 08 - 07/10/22
 
 1. Orientação do trabalho de modelagem
 
 ____
 
-### Aula 09
+### Aula 09 - 14/10/22
 
 1. Orientação do trabalho de modelagem
 
 ____
 
-### Aula 10
+### Aula 10 - 21/10/22
 
 1. Orientação do trabalho de modelagem
 
@@ -246,7 +246,7 @@ ____
 
 ____
 
-### Aula 11
+### Aula 11 - 28/10/22
 
 1. Vistas e folhas
     * definindo escala
@@ -271,7 +271,7 @@ ____
 
 ____
 
-### Aula 12
+### Aula 12 - 04/11/22
 
 1. Hierarquia de penas
     * *Object Styles*
@@ -287,7 +287,7 @@ ____
 
 ____
 
-### Aula 13
+### Aula 13 - 11/11/22
 
 1. Quadro de áreas
     * áreas de cômodos
@@ -305,7 +305,7 @@ ____
 
 ____
 
-### Aula 14
+### Aula 14 - 18/11/22
 
 1. Estudo de Sombras
     * Coordenadas Geográficas
@@ -317,25 +317,25 @@ ____
     * Materiais
     * Luzes
     * Pós-produção
-    * Percurso em vídeo
+    * Percurso virtual
 
 ____
 
-### Aula 15
+### Aula 15 - 25/11/22
 
 1. Orientação do segundo trabalho
 
-### Aula 16
+### Aula 16 - 02/12/22
 
-1. Entrega do segundo trabalho
+1. Orientação do segundo trabalho
 
 ____
 
-### Aula 17
+### Aula 17 - 09/12/22
 
 1. Avaliação do curso
 
-1. Notas
+1. Entrega do Segundo trabalho
 
 ____
 ____

@@ -10,7 +10,7 @@ ____
 
 ## *Moodle* da Disciplina
 
-[ARQA37 - 2021.2 - Informática e Desenho II](https://ava.ufba.br/course/view.php?id=43367)
+[ARQA37 - 2021.2 - Informática e Desenho II](indisponível)
 
 ____
 

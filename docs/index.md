@@ -4,9 +4,7 @@
 
 Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-Profa. Natalie Johanna Groetelaars \| natgroet@ufba.br
-
-Profa. Bruna Bittencourt Costa
+Monitora: Lorena de Souza Nadyer Vasconcellos \| lorenanadyer@gmail.com
 
 ____
 
@@ -31,15 +29,14 @@ ____
     * Metodologia
     * Avaliações
 
-1. Funcionamento do Laboratório
-
 1. Introdução ao BIM
+
     * Conceito
     * Bim x CAD
     * Ciclo de vida das edificações
     * Modelagem paramétrica
 
-1. Interface do programa
+2. Interface do programa
 
     ![PP_ProjBrow](./revit/init_revit/PbrowPP.gif)
 
@@ -67,9 +64,9 @@ ____
     * *Properties Pallets* (PP) (propriedades)
         * *Type Selector* (Seletor de Tipos)
 
-1. Instalação do Programa
+3. Instalação do Programa
 
-1. Referências e Links
+4. Referências e Links
 
 ____
 

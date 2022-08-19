@@ -6,7 +6,8 @@ authors = ["Fernando Ferraz Ribeiro <ffribeiro@gmai.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.10"
+
 
 
 

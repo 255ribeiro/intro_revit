@@ -1,6 +1,6 @@
 # Introdução ao Revit
 
-# Informática e Desenho II
+## Informática e Desenho II
 
 Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
@@ -10,7 +10,7 @@ ____
 
 ## *Moodle* da Disciplina
 
-[ARQA37 - 2021.2 - Informática e Desenho II](indisponível)
+[ARQA37 - 2021.2 - Informática e Desenho II](https://ava.ufba.br/course/view.php?id=95487)
 
 ____
 

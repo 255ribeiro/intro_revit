@@ -97,7 +97,6 @@ ____
 1. Paredes de cortina
     * Montante
     * Painéis
-
 ___
 
 [Exercício casa Noruega](./revit/materialDeExercicios/CASA_NOROEGA_TYIN_Tegnestue_Architects.zip)

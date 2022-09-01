@@ -46,7 +46,7 @@ nav:
       - Configurações iniciais:  revit\config_init\configura.md
       - Níveis e eixos:  revit\init_revit\ll_gr.md
       - Elementos construtivos:
-        - Paredes:  revit\elementos_constructivos\paredes.md
+        - Paredes:  revit\elementos_constructivos\paredes\paredes.md
         - Pisos:  revit\elementos_constructivos\pisos.md
         - Portas e janelas:  revit\elementos_constructivos\esquadrias.md
         - Cobertura:  revit\elementos_constructivos\cobertura.md

@@ -1,6 +1,6 @@
 # Downloads
 
--------
+-------------------
 
 ## Arquivos dos exercícios
 
@@ -76,4 +76,7 @@
 
 [MCMV](./templates_rte/MCMV/MCMV.zip)
 
+
+<hr>
+<hr>
 

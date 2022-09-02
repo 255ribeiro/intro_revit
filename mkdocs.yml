@@ -47,15 +47,15 @@ nav:
       - Níveis e eixos:  revit\init_revit\ll_gr.md
       - Elementos construtivos:
         - Paredes:  revit\elementos_constructivos\paredes\paredes.md
-        - Pisos:  revit\elementos_constructivos\pisos.md
-        - Portas e janelas:  revit\elementos_constructivos\esquadrias.md
+        - Pisos:  revit\elementos_constructivos\pisos\pisos.md
+        - Portas e janelas:  revit\elementos_constructivos\esquadrias\esquadrias.md
         - Cobertura:  revit\elementos_constructivos\cobertura.md
-        - Escadas:  revit\elementos_constructivos\escadas.md
-        - Rampas:  revit\elementos_constructivos\rampas.md
-        - Pilares:  revit\elementos_constructivos\pilares.md
-        - Fundações:  revit\elementos_constructivos\fundacoes.md
-        - Vigas:  revit\elementos_constructivos\vigas.md
-        - Treliças:  revit\elementos_constructivos\trelicas.md
+        - Escadas:  revit\elementos_constructivos\escadas\escadas.md
+        - Rampas:  revit\elementos_constructivos\rampas\rampas.md
+        - Pilares:  revit\elementos_constructivos\pilares\pilares.md
+        - Fundações:  revit\elementos_constructivos\fundaçoes\fundacoes.md
+        - Vigas:  revit\elementos_constructivos\vigas\vigas.md
+        - Treliças:  revit\elementos_constructivos\trelicas\trelicas.md
       - Massa e Terreno:
         - Terrenos:  revit\massa_e_terreno\terrenos.md
         - Plataforma e construção:  revit\massa_e_terreno\bpads.md

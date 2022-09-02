@@ -4,6 +4,15 @@
 
 ## Arquivos dos exercícios
 
+
+----------------------
+
+### Exercício Casa 4 x 4
+
+
+
+[Arquivos PDF](./4x4house/Ando_Tadao_4x4.pdf))
+
 ------------------
 
 ### Exercício Casa Noruega

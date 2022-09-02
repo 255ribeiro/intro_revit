@@ -1,10 +1,14 @@
 # Paredes
 
+<hr>
+
 ## Paredes Básicas
 
 - Seletor de Tipos
     ![](.\parede_tipos.gif)
     <br>
+
+
 - Editor de tipos
     ![](.\parede_editar_tipo.gif)
     <br>
@@ -14,12 +18,11 @@
      * Materiais
      * Camadas
 
-<br>
-<br>
+<hr>
+
 ## Paredes Empilhadas
 
-<br>
-<br>
+<hr>
 
 ## Cortinas de vidro
    * Eixos
@@ -27,3 +30,7 @@
        * Perfis
    * Painéis
    * Esquadrias
+
+
+<hr>
+<hr>

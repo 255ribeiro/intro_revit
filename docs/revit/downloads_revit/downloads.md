@@ -31,9 +31,9 @@
 
 [Casa Gilardi](./Gilardi/Gilardi.zip)
 
+[Barragan Foundation](https://www.barragan-foundation.org/)
 
 --------------------
-
 
 ### Mercado São Miguel
 
@@ -49,7 +49,6 @@
 
 [COBERTURA CORTE EIXOS](./mercadoSaoMiguel/coberturacorteEixos.dwg)
  
-
 ---------------------
 
 ### Fundações
@@ -77,12 +76,9 @@
 
 --------------------
 
-
-
 ## Templates
 
 [MCMV](./templates_rte/MCMV/MCMV.zip)
-
 
 <hr>
 <hr>

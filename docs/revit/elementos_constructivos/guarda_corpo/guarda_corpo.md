@@ -13,12 +13,17 @@ _______________________________
    3. poste canto / corner post
    4. poste fim / end post
    
-    ![](balaustres.jpg)
+ ![](balaustres.jpg)
 3. Corrimão superior / Top Hail
 4. Corrimão 1 / HandHail 1
 5. Corrimão 2 / Handhail 2
     Suportes / Suports
 
+
+__________
+
+
+[exemplos autodesk](https://www.autodesk.com/revit-railing-samples-2020-enu)
 
 _______
 _______

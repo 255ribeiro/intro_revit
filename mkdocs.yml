@@ -52,6 +52,7 @@ nav:
         - Cobertura:  revit\elementos_constructivos\cobertura.md
         - Escadas:  revit\elementos_constructivos\escadas\escadas.md
         - Rampas:  revit\elementos_constructivos\rampas\rampas.md
+        - Guarda-corpo: revit\elementos_constructivos\guarda_corpo\guarda_corpo.md
         - Pilares:  revit\elementos_constructivos\pilares\pilares.md
         - Fundações:  revit\elementos_constructivos\fundaçoes\fundacoes.md
         - Vigas:  revit\elementos_constructivos\vigas\vigas.md

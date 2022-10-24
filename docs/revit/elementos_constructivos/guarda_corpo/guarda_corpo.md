@@ -6,6 +6,7 @@ _______________________________
 ## Elementos de um gradil no Revit
 
 ![](tipo_gc.jpg)
+
 1. Estrutura do corrimão / Rails
 2. Balaustre / Balauster
    1. Padrão principal / Main pattern
@@ -14,6 +15,8 @@ _______________________________
    4. poste fim / end post
    
  ![](balaustres.jpg)
+
+ 
 3. Corrimão superior / Top Hail
 4. Corrimão 1 / HandHail 1
 5. Corrimão 2 / Handhail 2

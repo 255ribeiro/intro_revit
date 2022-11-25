@@ -46,17 +46,17 @@ nav:
       - Configurações iniciais:  revit\config_init\configura.md
       - Níveis e eixos:  revit\init_revit\ll_gr.md
       - Elementos construtivos:
-        - Paredes:  revit\elementos_constructivos\paredes\paredes.md
-        - Pisos:  revit\elementos_constructivos\pisos\pisos.md
-        - Portas e janelas:  revit\elementos_constructivos\esquadrias\esquadrias.md
-        - Cobertura:  revit\elementos_constructivos\cobertura.md
-        - Escadas:  revit\elementos_constructivos\escadas\escadas.md
-        - Rampas:  revit\elementos_constructivos\rampas\rampas.md
-        - Guarda-corpo: revit\elementos_constructivos\guarda_corpo\guarda_corpo.md
-        - Pilares:  revit\elementos_constructivos\pilares\pilares.md
-        - Fundações:  revit\elementos_constructivos\fundaçoes\fundacoes.md
-        - Vigas:  revit\elementos_constructivos\vigas\vigas.md
-        - Treliças:  revit\elementos_constructivos\trelicas\trelicas.md
+        - Paredes:  revit\elementos_construtivos\paredes\paredes.md
+        - Pisos:  revit\elementos_construtivos\pisos\pisos.md
+        - Portas e janelas:  revit\elementos_construtivos\esquadrias\esquadrias.md
+        - Cobertura:  revit\elementos_construtivos\cobertura\cobertura.md
+        - Escadas:  revit\elementos_construtivos\escadas\escadas.md
+        - Rampas:  revit\elementos_construtivos\rampas\rampas.md
+        - Guarda-corpo: revit\elementos_construtivos\guarda_corpo\guarda_corpo.md
+        - Pilares:  revit\elementos_construtivos\pilares\pilares.md
+        - Fundações:  revit\elementos_construtivos\fundacoes\fundacoes.md
+        - Vigas:  revit\elementos_construtivos\vigas\vigas.md
+        - Treliças:  revit\elementos_construtivos\trelicas\trelicas.md
       - Massa e Terreno:
         - Terrenos:  revit\massa_e_terreno\terrenos.md
         - Plataforma e construção:  revit\massa_e_terreno\bpads.md
@@ -68,13 +68,14 @@ nav:
         - Dimensões e cotas:  revit\Anotacoes\cotas.md
         - Norte:  revit\Anotacoes\norte.md
         - Textos:  revit\representacao\representa.md
-        - Hierarquia de linhas:  revit\representacao\representa.md
+        - Hierarquia de linhas:  revit\representacao\h_linhas\h_linhas.md
+        - Modelos de Vista:  revit\representacao\modelos_de_vista\modelos_de_vista.md
         - identificadores: revit\tags\tags.md
         - Hachura de piso e parede:  revit\representacao\representa.md
         - Quadro de áreas:  revit\representacao\representa.md
         - Mapas e Detalhes: revit\map_det\map_det.md
         - Tabelas de quatitativo:  revit\representacao\representa.md
-        - Impressão:  revit\representacao\representa.md
+        - Impressão:  revit\impress\impress.md
         - Estudos de sombra:  revit\representacao\representa.md
         - Render:  revit\representacao\representa.md
       - Links e downloads:

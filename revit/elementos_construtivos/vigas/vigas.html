@@ -8,14 +8,14 @@
       
       
       
-        <link rel="canonical" href="https://255ribeiro.github.io/Intro_Revit/revit/elementos_constructivos/pisos/pisos.html">
+        <link rel="canonical" href="https://255ribeiro.github.io/Intro_Revit/revit/elementos_construtivos/vigas/vigas.html">
       
       <link rel="icon" href="../../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.4.1, mkdocs-material-8.5.7">
     
     
       
-        <title>Pisos - Introdução ao Revit</title>
+        <title>Vigas - Introdução ao Revit</title>
       
     
     
@@ -70,7 +70,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#pisos" class="md-skip">
+        <a href="#vigas" class="md-skip">
           Skip to content
         </a>
       
@@ -103,7 +103,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Pisos
+              Vigas
             
           </span>
         </div>
@@ -373,21 +373,11 @@
               
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="pisos.html" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../elementos_constructivos/pisos/pisos.md" class="md-nav__link">
         Pisos
       </a>
-      
     </li>
   
 
@@ -495,11 +485,21 @@
               
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../vigas/vigas.html" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="vigas.html" class="md-nav__link md-nav__link--active">
         Vigas
       </a>
+      
     </li>
   
 
@@ -958,24 +958,45 @@
                 
                   
 
-  <a href="https://github.com/255ribeiro/Intro_Revit/edit/master/docs/revit/elementos_constructivos/pisos/pisos.md" title="Edit this page" class="md-content__button md-icon">
+  <a href="https://github.com/255ribeiro/Intro_Revit/edit/master/docs/revit/elementos_construtivos/vigas/vigas.md" title="Edit this page" class="md-content__button md-icon">
     
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
   </a>
 
 
-<h1 id="pisos">Pisos</h1>
-<ul>
-<li>
-<p>Pisos</p>
-<ul>
-<li>Materiais</li>
-<li>Camadas</li>
-<li><em>Steel Deck</em></li>
-<li>Vãos</li>
-</ul>
-</li>
-</ul>
+<h1 id="vigas">Vigas</h1>
+<p>O comando de modelagem de vigas pode ser encontrado a aba <span style="color: darkviolet">Estrutura -> Viga</span> ou pelo atalho <span style="color: darkviolet">BM</span>.</p>
+
+<p><img alt="vigas" src="vigas01.jpg" /></p>
+<p>É possível ajustar o nível em que a viga deve ser alocada na barra de opções. O principal método de inserção de vigas é clicando nos dois  pontos extremos que definem o comprimento da viga</p>
+<p><img alt="vigas" src="vigas02.png" /></p>
+<p>As vigas são criadas a partir de um sistema de coordenadas particular e independente para cada viga (em computação gráfica isso é denominado de sistemas de coordenadas do objeto). Np caso das vigas, o sistema de coordenadas do objeto é centralizado no primeiro ponto do eixo da viga, o <span style="color: red">eixo x</span> é definido pelo próprio eixo da viga, o <span style="color: green">eixo Y</span> está no plano horizontal e o <span style="color: blue">eixo z</span> na direção ascendente. Muitos dos ajustes do painel de propriedades (pp) relaciona-se com as posições destes eixos.</p>
+
+<p><img alt="vigas" src="vigas03.png" /></p>
+<h2 id="editando-perfis-de-vigas">Editando perfis de vigas</h2>
+<p>Para editar uma família de uma viga, pode-se criar uma instância de uma viga, seleciona-la e clicar no botão de edição de edição de famílias. </p>
+<p><img alt="vigas" src="familia_viga_01.jpg" /></p>
+<p>Ou, utilizando o navegador de projeto (project browser), selecionar a categoria quadro estrutural e, com um clique com o botão direito na família desejada, escolher a opção editar.</p>
+<p><img alt="vigas" src="familia_viga_02a.jpg" /></p>
+<p>Os dois caminhos levam ao editor de famílias com a família da viga escolhida aberta para edição. Para editar os parâmetros do tipo, clique no ícone de tipos de família.</p>
+<p><img alt="vigas" src="vigas_familia_ed_01.jpg" /></p>
+<p>Em seguida, na caixa de diálogo dos tipos de família:</p>
+<ol>
+<li>crie um novo tipo e </li>
+<li>digite um nome apropriado.</li>
+<li>confirme a criação do novo tipo.</li>
+<li>edite dos valores dos parâmetros do tipo para o novo perfil</li>
+<li>aplique as edições realizadas</li>
+<li>feixe a caixa de diálogo da edição de tipos de família.</li>
+</ol>
+<p><img alt="vigas" src="vigas_familia_ed_02.jpg" /></p>
+<h2 id="criando-uma-nova-familia-de-vigas">Criando uma nova família de vigas</h2>
+<p>Crie uma nova família.
+<img alt="vigas" src="criando_nova_familia_de_vigas.jpg" /></p>
+<p>Selecione o modelo adequado. No Revit 2022, o nome do modelo de vigas é uma péssima tradução do original:</p>
+<p><img alt="vigas" src="criando_nova_familia_de_vigas_02.jpg" /></p>
+<p>Edite a extrusão para criar uma viga de acordo com suas necessidades. </p>
+<h2 id="sistemas-de-vigas">Sistemas de vigas</h2>
 
 
 
@@ -996,7 +1017,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer" >
       
         
-        <a href="../paredes/paredes.html" class="md-footer__link md-footer__link--prev" aria-label="Previous: Paredes" rel="prev">
+        <a href="../pilares/pilares.html" class="md-footer__link md-footer__link--prev" aria-label="Previous: Pilares" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
           </div>
@@ -1005,20 +1026,20 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Paredes
+              Pilares
             </div>
           </div>
         </a>
       
       
         
-        <a href="../esquadrias/esquadrias.html" class="md-footer__link md-footer__link--next" aria-label="Next: Portas e janelas" rel="next">
+        <a href="../trelicas/trelicas.html" class="md-footer__link md-footer__link--next" aria-label="Next: Treliças" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Portas e janelas
+              Treliças
             </div>
           </div>
           <div class="md-footer__button md-icon">

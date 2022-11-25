@@ -1,5 +1,15 @@
 # Hierarquia de linhas
 
+## Estilos de linhas
+
+Gerenciar -> configurações adicionais -> estilos de linhas
+
+![Configuração espessuras de linhas](./config_linhas_estilos.jpg)
+
+
+![Configuração espessuras de linhas](./config_linhas_estilos_dialog.jpg)
+
+
 ## Padrões de linha
 
 Gerenciar -> configurações adicionais -> Padrões de linhas
@@ -17,15 +27,6 @@ Gerenciar -> configurações adicionais -> espessura de linhas
 Abre a janela de configuração de espessuras de linha
 
 ![Configuração espessuras de linhas](./config_linhas_espessuras.jpg)
-
-## Estilos de linhas
-
-Gerenciar -> configurações adicionais -> estilos de linhas
-
-![Configuração espessuras de linhas](./config_linhas_estilos.jpg)
-
-
-![Configuração espessuras de linhas](./config_linhas_estilos_dialog.jpg)
 
 
 _________________________

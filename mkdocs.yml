@@ -79,6 +79,8 @@ nav:
         - Impressão:  revit\impress\impress.md
         - Estudos de sombra:  revit\representacao\representa.md
         - Render:  revit\representacao\representa.md
+      - Dados:
+        - Informações do Projeto: \revit\DADOS\project_info.md
       - Links e downloads:
         - Links:  revit\links\links.md
         - downloads:  revit\downloads_revit\downloads.md

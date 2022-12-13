@@ -257,7 +257,7 @@ ____
 
 1. famílias de anotações
     * Norte : [configurando anotação de norte e norte verdadeiro](./revit/Anotacoes/norte.md)
-    * Cotas : [Instruções para configuração das cotas](./revit/Anotacoes/cotas.md)
+    * Cotas : [Instruções para configuração das cotas](./revit/Anotacoes/dim.md)
     * Níveis
     * Textos
     * Legendas

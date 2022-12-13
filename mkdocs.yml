@@ -29,9 +29,9 @@ theme:
         name: Switch to light mode
   
 
-site_url: "https://255ribeiro.github.io/Intro_Revit/"
-repo_url: "https://github.com/255ribeiro/Intro_Revit/"
-repo_name: "255ribeiro/Intro_Revit" 
+site_url: "https://255ribeiro.github.io/intro_Revit/"
+repo_url: "https://github.com/255ribeiro/intro_Revit/"
+repo_name: "255ribeiro/intro_Revit" 
 
 
 nav:
@@ -65,7 +65,8 @@ nav:
       - Editor de famílias:
         - Criando famílias de pilares:  revit\editorfamilias\familiasPilares.md
       - Representação:
-        - Dimensões e cotas:  revit\Anotacoes\cotas.md
+        - Dimensões:  revit\Anotacoes\dim.md
+        - Cotas de nivel: revit\Anotacoes\cota_nivel.md
         - Norte:  revit\Anotacoes\norte.md
         - Textos:  revit\representacao\representa.md
         - Hierarquia de linhas:  revit\representacao\h_linhas\h_linhas.md

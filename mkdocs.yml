@@ -80,7 +80,8 @@ nav:
         - Estudos de sombra:  revit\representacao\representa.md
         - Render:  revit\representacao\representa.md
       - Dados:
-        - Informações do Projeto: \revit\DADOS\project_info.md
+        - Informações do Projeto: revit\DADOS\project_info.md
+        - Tipos de parâmetros: revit\DADOS\parametros.md
       - Links e downloads:
         - Links:  revit\links\links.md
         - downloads:  revit\downloads_revit\downloads.md

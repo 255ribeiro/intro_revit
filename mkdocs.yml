@@ -83,6 +83,7 @@ nav:
         - Informações do Projeto: revit\DADOS\project_info.md
         - Planilhas: revit\DADOS\planilhas\planilhas.md
         - Tipos de parâmetros: revit\DADOS\parametros.md
+        - Parâmetros de familia: revit\DADOS\\param_de_familia.md
 
       - Links e downloads:
         - Links:  revit\links\links.md

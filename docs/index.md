@@ -1,10 +1,7 @@
 # Introdução ao Revit
 
-## Informática e Desenho II
+Prof. Fernando Ferraz Ribeiro 
 
-Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
-
-Monitora: Lorena de Souza Nadyer Vasconcellos \| lorenanadyer@gmail.com
 
 ____
 

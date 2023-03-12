@@ -81,7 +81,9 @@ nav:
         - Render:  revit\representacao\representa.md
       - Dados:
         - Informações do Projeto: revit\DADOS\project_info.md
+        - Planilhas: revit\DADOS\planilhas\planilhas.md
         - Tipos de parâmetros: revit\DADOS\parametros.md
+        - 
       - Links e downloads:
         - Links:  revit\links\links.md
         - downloads:  revit\downloads_revit\downloads.md

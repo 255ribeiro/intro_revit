@@ -46,10 +46,10 @@
 
 ### Tabela resumo
 
-| Tipo de parâmetro                           | Onde é usado?     | Identificadores (Tags) | Planilhas (Shedules) |
-|---------------------------------------------|-------------------|------------------------|----------------------|
-| Built-in                                    | Famílias Projetos | x                      | x                    |
-| Parâmetros de Projeto                       | Projetos          | -                      | x                    |
-| Parâmetros de Família Family parameters     | Famílias          | -                      | -                    |
-| Parâmetros compartilhados Shared parameters | Famílias Projetos | x                      | x                    |
-| Parâmetros globais Global parameters        | Projetos          | -                      | -                    |
+| Tipo de parâmetro                              	|     Onde é usado?    	| Identificadores<br>(Tags) 	| Planilhas<br>(Shedules) 	|
+|------------------------------------------------	|:--------------------:	|:-------------------------:	|:-----------------------:	|
+| Built-in                                       	| Famílias<br>Projetos 	|             x             	|            x            	|
+| Parâmetros de Projeto                          	|       Projetos       	|             -             	|            x            	|
+| Parâmetros de Família<br>Family parameters     	|       Famílias       	|             -             	|            -            	|
+| Parâmetros compartilhados<br>Shared parameters 	| Famílias<br>Projetos 	|             x             	|            x            	|
+| Parâmetros globais<br>Global parameters        	|       Projetos       	|             -             	|            -            	|

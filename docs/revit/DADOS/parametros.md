@@ -41,4 +41,15 @@
    * Podem ser aplicados à parâmetros de projeto ou de família.
    * Podem aparecer em planilhas e tag(identificadores).
 
+-------
 
+
+### Tabela resumo
+
+| Tipo de parâmetro                           | Onde é usado?     | Identificadores (Tags) | Planilhas (Shedules) |
+|---------------------------------------------|-------------------|------------------------|----------------------|
+| Built-in                                    | Famílias Projetos | x                      | x                    |
+| Parâmetros de Projeto                       | Projetos          | -                      | x                    |
+| Parâmetros de Família Family parameters     | Famílias          | -                      | -                    |
+| Parâmetros compartilhados Shared parameters | Famílias Projetos | x                      | x                    |
+| Parâmetros globais Global parameters        | Projetos          | -                      | -                    |

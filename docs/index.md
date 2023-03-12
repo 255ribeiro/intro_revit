@@ -3,15 +3,15 @@
 Prof. Fernando Ferraz Ribeiro 
 
 
-____
+<!-- ____
 
 ## *Moodle* da Disciplina
 
 [ARQA37 - 2021.2 - Informática e Desenho II](https://ava.ufba.br/course/view.php?id=95487)
 
-____
+____ -->
 
-## [Edital das Avaliações](./revit/EditaisDasAvaliacoes/Readme.md)
+<!-- ## [Edital das Avaliações](./revit/EditaisDasAvaliacoes/Readme.md) -->
 
 ____
 

@@ -80,10 +80,12 @@ nav:
         - Estudos de sombra:  revit\representacao\representa.md
         - Render:  revit\representacao\representa.md
       - Dados:
+        - Organizando as pastas do projeto: revit\DADOS\projeto_revit\projeto.md
         - Informações do Projeto: revit\DADOS\project_info.md
         - Planilhas: revit\DADOS\planilhas\planilhas.md
         - Tipos de parâmetros: revit\DADOS\parametros.md
-        - Parâmetros de familia: revit\DADOS\\param_de_familia.md
+        - Parâmetros de familia: revit\DADOS\param_de_familia.md
+        - Parâmetros compartilhados: revit\DADOS\shared_param\shared_param.md
 
       - Links e downloads:
         - Links:  revit\links\links.md

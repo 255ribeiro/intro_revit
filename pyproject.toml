@@ -2,7 +2,7 @@
 name = "intro_revit"
 version = "0.1.0"
 description = ""
-authors = ["Fernando Ferraz Ribeiro <ffribeiro@gmail.com>"]
+authors = ["Fernando Ferraz Ribeiro <ffribeiro@gmail.com>"
 
 
 [tool.poetry.dependencies]

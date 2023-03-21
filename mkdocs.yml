@@ -86,6 +86,8 @@ nav:
         - Tipos de parâmetros: revit\DADOS\parametros.md
         - Parâmetros de familia: revit\DADOS\param_de_familia.md
         - Parâmetros compartilhados: revit\DADOS\shared_param\shared_param.md
+        - IFC:
+          - Atualizar exportador IFC do Revit: revit\DADOS\IFC\revit_IFC_install.md
 
       - Links e downloads:
         - Links:  revit\links\links.md

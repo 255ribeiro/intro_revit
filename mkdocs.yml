@@ -39,6 +39,7 @@ nav:
   # - Editais das Avaliações: revit\EditaisDasAvaliacoes\Readme.md
   
   - Introdução ao BIM: BIM_intro\bim_intro.md
+  - Níveis e maturidade do BIM: BIM_intro\levels_mat.md
 
   - Revit:
       - Instalação do Revit: revit\init_revit\instala.md

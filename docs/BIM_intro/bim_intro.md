@@ -11,4 +11,10 @@
 
 [Artigo](BEP_research_gate.pdf)
 
+
+
+## Níveis de maturidade do BIM
+
+[Níveis de maturidade do BIM](./levels_mat.md)
+
 <!-- [IFC](...) -->

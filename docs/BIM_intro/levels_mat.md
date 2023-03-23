@@ -1,9 +1,13 @@
 # Níveis de maturidade do BIM
 
-![maturidade](maturity.png)
+![Bew_Richards](./BIM_levels_of_maturity.png)
+
+<!-- Succar, Bilal & Kassem, Mohamad. (2015). Macro-BIM adoption: Conceptual structures. Automation in Construction. 57. 64-79. 10.1016/j.autcon.2015.04.018.  -->
+
+![maturidade](maturity.
 ##### disponível em: [https://bimexcellence.org/wp-content/uploads/301in.PT-Matriz-de-Maturidade-BIM.pdf](https://bimexcellence.org/wp-content/uploads/301in.PT-Matriz-de-Maturidade-BIM.pdf)
 
-O nível de maturidade do BIM ainda um objeto de discussões e controvérsias. A Grã-Bretanha foi um dos primeiros países a estabelecer critérios objetivos para a definição dos níveis de maturidade do BIM. Por conta deste pioneirismo, o site [BIMDictionary.com](bimdictionary.com) utiliza o padrão Britânico para definir os níveis de maturidade do BIM.
+O nível de maturidade do BIM ainda é um objeto de discussões e controvérsias. A Grã-Bretanha foi um dos primeiros países a estabelecer critérios objetivos para a definição dos níveis de maturidade do BIM. Por conta deste pioneirismo, o site [BIMDictionary.com](bimdictionary.com) utiliza o padrão Britânico para definir os níveis de maturidade do BIM.
 
 ## BIM Nível 0
 [https://bimdictionary.com/pt/level-0-bim/1](https://bimdictionary.com/pt/level-0-bim/1)

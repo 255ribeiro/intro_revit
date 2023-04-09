@@ -45,6 +45,7 @@ nav:
       - Instalação do Revit: revit\init_revit\instala.md
       - Interface:  revit\init_revit\interface.md
       - Configurações iniciais:  revit\config_init\configura.md
+      - Hierarquia: revit\config_init\configura.md
       - Níveis e eixos:  revit\init_revit\ll_gr.md
       - Elementos construtivos:
         - Paredes:  revit\elementos_construtivos\paredes\paredes.md

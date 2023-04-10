@@ -45,7 +45,7 @@ nav:
       - Instalação do Revit: revit\init_revit\instala.md
       - Interface:  revit\init_revit\interface.md
       - Configurações iniciais:  revit\config_init\configura.md
-      - Hierarquia: revit\config_init\configura.md
+      - Hierarquia: revit\cat_fam\CATEGORY.MD
       - Níveis e eixos:  revit\init_revit\ll_gr.md
       - Elementos construtivos:
         - Paredes:  revit\elementos_construtivos\paredes\paredes.md
@@ -90,6 +90,7 @@ nav:
         - Parâmetros compartilhados: revit\DADOS\shared_param\shared_param.md
         - IFC:
           - Atualizar exportador IFC do Revit: revit\DADOS\IFC\revit_IFC_install.md
+          - Dados do projeto: revit/DADOS/IFC/ifc_project_data.md
 
       - Links e downloads:
         - Links:  revit\links\links.md

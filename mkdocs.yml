@@ -97,7 +97,7 @@ nav:
         - Links:  revit\links\links.md
         - downloads:  revit\downloads_revit\downloads.md
       - Extra:
-        - Vinculos Cad: revit\vinculosCad\vinc_cad.MD
+        - Vinculos Cad: revit\vinculosCad\vinc_cad.md
 
 
 markdown_extensions:

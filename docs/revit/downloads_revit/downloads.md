@@ -51,6 +51,14 @@
  
 ---------------------
 
+### Exercício parâmetros
+
+
+[arquivo exercício de parâmetros](./exemplo_dados/arquivo_de_aulas_dados.rvt)
+
+
+---------------------
+
 ### Fundações
 
 [Sapata distribuída cônica](./blocoFundacao/Sapata_distribuida_Conica.rfa)

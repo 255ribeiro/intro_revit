@@ -91,6 +91,7 @@ nav:
         - IFC:
           - Atualizar exportador IFC do Revit: revit\DADOS\IFC\revit_IFC_install.md
           - Dados do projeto: revit/DADOS/IFC/ifc_project_data.md
+          - Configuração básica do exportador IFC do Revit: revit/DADOS/IFC/Revit_2024_config_basica/config_exporter.md
       - Georreferenciamento: revit/DADOS/georref/georref.md
 
       - Links e downloads:

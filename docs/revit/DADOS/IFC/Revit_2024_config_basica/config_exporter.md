@@ -4,8 +4,8 @@
 
 ### Configurações básicas:
 
-
-![Alt text](Ifc_export_01.png)
+mkdocs ghdeploy
+![Alt text](ifc_export_01.png)
 
 ![Alt text](IFC_export_02.png)
 

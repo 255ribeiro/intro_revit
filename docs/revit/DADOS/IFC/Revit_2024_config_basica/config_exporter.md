@@ -4,7 +4,6 @@
 
 ### Configurações básicas:
 
-mkdocs ghdeploy
 ![Alt text](ifc_export_01.png)
 
 ![Alt text](IFC_export_02.png)

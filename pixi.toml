@@ -1,0 +1,18 @@
+[workspace]
+authors = ["Fernando Ferraz Ribeiro <ffribeiro@gmail.com>"]
+channels = ["conda-forge"]
+name = "intro_revit"
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+srvdoc = "mkdocs serve"
+updoc = "mkdocs gh-deploy"
+
+[dependencies]
+python = "3.13.*"
+pandas = ">=2.3.3,<3"
+mkdocs = ">=1.6.1,<2"
+mkdocs-material = ">=9.6.23,<10"
+mkdocs-jupyter = ">=0.25.1,<0.26"
+ipykernel = ">=6.31.0,<7"

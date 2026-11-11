@@ -1,4 +1,4 @@
-# Utilizando Cotas
+1# Utilizando Cotas
 
 As cotas no Revit são famílias do sistema.
 Para utilizar uma cota, na aba Anotar e clique na opção cota alinhada.
@@ -73,11 +73,11 @@ ____
 
 ### Elementos textuais das cotas
 
-![Alterações recomendadas na aba de Texto](cotas_config_03.jpg)
+![Alterações recomendadas na aba de Texto](cotas_config_03.png)
 
 ____
 
-<div style="text-align:center"><img src="cotas_config_03A.jpg" /></div>
+<div style="text-align:center"><img src="cotas_config_03A.png" /></div>
 ____
 
 Alterações recomendadas nos textos das cotas:
@@ -96,7 +96,7 @@ Na aba **Gerenciar**, clique no botão **Configurações adicionais** e em segui
 
 ____
 
-![configurando o ponto - Dot](cotas_config_ponto_LI.jpg)
+![configurando o ponto - Dot](cotas_config_ponto_LI.png)
 
 ____
 

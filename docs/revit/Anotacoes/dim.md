@@ -1,4 +1,4 @@
-1# Utilizando Cotas
+# Utilizando Cotas
 
 As cotas no Revit são famílias do sistema.
 Para utilizar uma cota, na aba Anotar e clique na opção cota alinhada.
@@ -110,10 +110,7 @@ ____
 
 <div style="text-align:center"><img src="cotas_config_marcaA.jpg" /></div>
 
-
 ____
-
-
 
     - Estilo de seta = pontilhado
     - Preenchimento da Marca de Revisão = Marque a caixa
@@ -129,7 +126,6 @@ ____
 
 
 <div style="text-align:center"><img src=".\cotas_config_ponto_02A.jpg" /></div>
-
 
 ____
 

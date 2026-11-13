@@ -45,20 +45,20 @@ Renomeie o Tipo antes de começar a edição.
 
 ____
 
-![Renomeando](cotas_config_01.jpg)
+![Renomeando](cotas_config_duplicar.jpg)
 ____
 
-<div style="text-align:center"><img src="cotas_config_01A.png" /></div>
+<div style="text-align:center"><img src="cotas_config_duplicar_zoom.png" /></div>
 
 ____
 
 ### Elementos gráficos da cota
 
-![Alterações recomendadas na aba de gráficos](cotas_config_02.jpg)
+![Alterações recomendadas na aba de gráficos](cotas_config_graficos.jpg)
 
 ____
 
-<div style="text-align:center"><img src="cotas_config_02A.jpg" /></div>
+<div style="text-align:center"><img src="cotas_config_graficos_zoom.jpg" /></div>
 
 ____
 
@@ -73,11 +73,11 @@ ____
 
 ### Elementos textuais das cotas
 
-![Alterações recomendadas na aba de Texto](cotas_config_03.png)
+![Alterações recomendadas na aba de Texto](cotas_config_texto_un.png)
 
 ____
 
-<div style="text-align:center"><img src="cotas_config_03A.png" /></div>
+<div style="text-align:center"><img src="cotas_config_texto_un_zoom.png" /></div>
 ____
 
 Alterações recomendadas nos textos das cotas:

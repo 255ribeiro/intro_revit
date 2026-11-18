@@ -53,9 +53,7 @@
 
 ### Exercício parâmetros
 
-
 [arquivo exercício de parâmetros](./exemplo_dados/arquivo_de_aulas_dados.rvt)
-
 
 ---------------------
 
@@ -87,6 +85,12 @@
 ## Templates
 
 [MCMV](./templates_rte/MCMV/MCMV.zip)
+
+## Famílias
+
+### Formatos
+
+[Formatos A](./templates_rte/formatos_A_R2026.rfa)
 
 <hr>
 <hr>
